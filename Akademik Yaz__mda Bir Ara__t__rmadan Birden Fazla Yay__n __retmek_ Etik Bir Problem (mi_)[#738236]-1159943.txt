@@ -1,0 +1,1382 @@
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek:
+Etik Bir Problem (mi?)
+
+Turgay Gündüz
+Dr. Öğr. Üyesi, Bursa Uludağ Üniversitesi, İlahiyat Fakültesi, Din Eğitimi Ana Bilim Dalı
+Bursa/Türkiye
+tgunduz@uu.edu.tr
+http://orcid.org/0000-0001-8019-4009
+Öz: Akademik yazımda bir araştırmadan birden fazla yayın üretmek, özellikle alan çalışmalarının yapıldığı bilim dallarında karşılaşılan bir durumdur. Bir araştırmadan birden fazla yayın
+üretme ile etik bir sorun olarak kabul edilen dilimleme arasındaki belirsiz alanlar kimi zaman
+araştırmacıların etik ihlal ithamlarına maruz kalmalarına, hatta idari soruşturmalara muhatap olmalarına sebep olabilmektedir. Araştırma ve yayın etiğine aykırı eylemler arasında yer
+almasına rağmen, ilgili alan yazında bir araştırmadan birden fazla yayın üretme ya da dilimleme hakkında ayrıntılı bilgiye rastlamak neredeyse mümkün değildir. Bu makalede dilimlemenin mahiyeti, kapsamı, sınırları incelenmekte, bu kavrama ilişkin farklı yaklaşımlar ve tartışmalar kritik edilerek dilimleme konusunun anlaşılmasına katkı sunulması amaçlanmaktadır. Bu çerçevede makalede şu sorulara cevaplar aranmaktadır: Dilimleme bir tekrar yayın
+türü ya da bir nevi kendinden intihal midir? Bir araştırmanın sonuçları mutlaka tek yayın olarak mı sunulmalıdır? Bir araştırmanın bütünlüğü ne anlama gelir, bütünlüğü bozan unsurlar
+nelerdir? Bir araştırma sonuçlarını parçalara ayırmanın ya da birden fazla yayın haline dönüştürmenin “uygun” veya “uygun olmayan” biçimleri nelerdir? Makalede önce resmi mevzuatta
+ve ilgili literatürde yapılan tanımlar gözden geçirilerek dilimlemenin ne olduğu ya da ne olmadığına ilişkin bir kavramsal çerçevenin oluşturulmasına gayret edilmekte, ardından dilimlemeyi etik açıdan sakıncalı kılan nedenler incelenmekte, son olarak, dilimleme sorunu ile
+karşılaşmamak için araştırmacı/yazarların, dergi editörlerinin ve araştırma kurumlarının
+yapması gerekenler üzerinde durulmaktadır.
+Anahtar Kelimeler: Yayın Etiği, Dilimleme, Bölerek Yayınlama, En Küçük Yayınlanabilir Birim,
+Parçalanmış Yayın, Çoklu Yayın, Kendinden İntihal, Tekrar Yayın.
+
+Geliş Tarihi/Received Date: 16.02.2020
+
+Kabul Tarihi/Accepted Date: 20.05.2020
+
+Araştırma Makalesi/Research Article
+Atıf/Citation: Gündüz, Turgay. “Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir
+Problem (mi?)”. Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020), 45-80.
+
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+46 ▪ Turgay Gündüz
+
+Generating Multiple Publications from One Research Study in
+Academic Writing: An Ethical Problem (?)
+Abstract: Generating multiple publications from one research study is an occurrence often
+encountered in academic writing, especially in research areas which conduct field studies.
+Grey areas between producing more than one publication from a single piece of research and
+salami-slicing, which is considered as an ethical problem, may sometimes cause researchers
+to be exposed to ethical violation accusations or even to undergo administrative
+investigations. There is very little detailed information about salami-slicing even though it is
+considered as an act contrary to research and publication ethics. The same is true for
+generating more than one publication from a single piece of research. This article examines
+the nature, scope and limits of salami-slicing, and aims to contribute to the understanding of
+salami-slicing by criticizing various approaches and arguments. In this context, the article
+seeks answers to the following questions: Is salami-slicing a kind of duplication or a type of
+self-plagiarism / auto-plagiarism? Is it necessary to publish the results of a research study as
+a single article? What does research integrity mean, and what are the things that disrupt the
+integrity? What are the appropriate and inappropriate forms of dividing a single research
+result into pieces or of generating more from one publication? The article first creates a
+conceptual framework for what salami-slicing is and is not after reviewing the definitions in
+the official legislation and relevant literature, and then, examines the reasons that make
+salami-slicing unethical, and finally, expresses opinions on what the scholarly journal editors
+and research institutions should do to avoid the problem of salami-slicing.
+Keywords: Publication Ethics, Salami-Slicing, Divided Publication, Least Publishable Unit, Segmented/Fragmented Publication, Multiple Publication, Self-Plagiarism, Duplication.
+
+Özet
+Akademik yazımda bir araştırmadan birden fazla yayın üretmek, özellikle alan
+çalışmalarının yapıldığı bilim dallarında, karşılaşılan bir durumdur. Bir araştırmadan
+birden fazla yayın üretme ile etik bir sorun olarak kabul edilen dilimleme arasındaki
+belirsiz alanlar, kimi zaman araştırmacıların etik ihlal ithamlarına maruz kalmalarına, hatta idari soruşturmalara muhatap olmalarına sebep olabilmektedir.
+Araştırma ve yayın etiğine aykırı eylemler arasında yer almasına rağmen dilimleme
+ya da bir araştırmadan birden fazla yayın üretme hakkında ilgili literatürde ayrıntılı
+bilgiye rastlamak neredeyse mümkün değildir.
+Son yıllarda Türkiye’de genel olarak yükseköğretimde özelde ise akademik yayınlarda niteliğin artırılması yönünde önemli çabaların olması araştırma ve yayın etiği
+alanına olan ilginin ve dilimleme gibi üzerinde çalışılmamış bazı konulara yönelik
+bilgi ihtiyacının artmasına neden olmuştur. Böyle bir ihtiyaca binaen bu makalede
+dilimlemenin mahiyeti, kapsamı, sınırları incelenmekte, bu kavrama ilişkin farklı
+yaklaşımlar ve tartışmalar kritik edilerek dilimleme konusunun anlaşılmasına katkı
+
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 47
+
+sunulması amaçlanmaktadır. Bu çerçevede makalede şu sorulara cevaplar aranmaktadır: Dilimleme bir tekrar yayın türü ya da bir nevi kendinden intihal midir? Bir
+araştırmanın sonuçları mutlaka tek yayın olarak mı sunulmalıdır? Bir araştırmanın
+bütünlüğü ne anlama gelir, bütünlüğü bozan unsurlar nelerdir? Bir araştırma
+sonuçlarını parçalara ayırmanın ya da birden fazla yayın haline dönüştürmenin uygun veya uygun olmayan biçimleri nelerdir?
+Makalede önce resmi mevzuatta ve ilgili literatürde yapılan tanımlar gözden
+geçirilerek dilimlemenin ne olduğu ya da ne olmadığına ilişkin bir kavramsal
+çerçevenin oluşturulmasına gayret edilmekte, ardından dilimlemeyi etik açıdan
+sakıncalı kılan nedenler incelenmekte, son olarak, dilimleme sorunu ile
+karşılaşmamak için araştırmacı/yazarların, dergi editörlerinin ve yükseköğretim kurumlarının yapması gerekenler üzerinde durulmaktadır.
+Araştırma sonuçlarına göre, aynı araştırmadan birden fazla yayın üretme anlamında
+tekrar yayın ile açık benzerlikleri olsa da dilimleme yoluyla üretilmiş yayınlar
+arasında açık bir içerik benzerliği söz konusu olmayabilir. Bu özelliği dolayısıyla
+tekrar yayını kolaylıkla tespit etmek mümkün iken, dilimleme ile üretilmiş bir yayını
+fark etmek daha zor olmaktadır.
+Her ne kadar dilimleme bir tür kendinden intihal olarak görülse de bu iki kavram
+teknik olarak iki ayrı eylemi anlatan ifadelerdir. Kendinden intihal, yazarın daha
+önce yayınlanmış bir çalışmasını, usulüne uygun olarak kaynak göstermeksizin,
+başka bir çalışmasında tekrar kullanmasıdır. Dilimleme ile kendinden intihalin
+kesiştiği yer aynı araştırmadan yeni bir çalışma üretmektir, fakat dilimleme üretim
+biçimi itibariyle kendinden intihalden ayrılmaktadır.
+Bilimsel araştırmalar; amacı, problemi, örneklemin kapsamı ve büyüklüğü, cevabı
+aranan soru veya soruların (alt problemlerin) adedi ve mahiyeti itibariyle birbirinden ayrılırlar. Her araştırma aynı büyüklükte, aynı kapsam ve derinlikte olmayabilir. Sınırları oldukça belirgin ve dar bir problem alanına sahip araştırmalar
+olabileceği gibi, sonuçlanması yıllar alabilen, geniş bir ekip tarafından
+gerçekleştirilen, çoklu alt problemleri çözmeyi amaçlayan büyük çaplı araştırmalar
+da yapılabilmektedir. Şüphesiz, bunların her ikisinin sonuçlarının da tek bir yayın ile
+rapor edilmesi beklenemez. Birincisinden iki yayın üretmek etik olmayabileceği gibi,
+ikincisinden ikiden fazla yayın çıkarmak pekâlâ herhangi bir etik sorun oluşturmayabilir.
+Her ne kadar bir araştırmadan, araştırmanın mahiyetine bağlı olarak birden fazla
+yayın üretmek mümkün olsa da literatürde etik bir sorun olarak görülen dilimleme,
+basitçe bir araştırmadan birden fazla yayın üretmekten daha fazla anlamlar
+içermektedir. Onun için dilimleme, araştırma sonuçlarının yayın haline dönüştürülmesi sürecinde ortaya çıkabilecek bazı özel durumlara binaen etik dışı bir
+davranış olarak görülmektedir. Bunlar, genel olarak, bilime ve bilim insanının
+saygınlığına zarar vermesi, yanıltmaya, haksız kazanç, itibar ve terfi elde etmeye
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+48 ▪ Turgay Gündüz
+
+teşebbüs içermesi ve araştırmacıyı kendinden intihal, tekrar yayın ve yayın haklarını
+ihlale açık hale getirmesi olarak sıralanabilir.
+Summary
+Generating multiple publications from one research study is an occurrence often
+encountered in academic writing, especially in research areas which conduct field
+studies. Grey areas between producing more than one publication from a single piece
+of research and salami-slicing, which is considered as an ethical problem, may
+sometimes cause researchers to be exposed to ethical violation accusations or even
+to undergo administrative investigations. There is very little detailed information
+about salami-slicing even though it is considered as an act contrary to research and
+publication ethics. The same is true for generating more than one publication from
+a single piece of research.
+In recent years, significant efforts to improve the quality of higher education in
+general and of academic publications in particular in Turkey have led to an increased
+interest in research and publication ethics and the need for more information
+regarding some unexplored topics such as salami-slicing. Based on such a need, this
+article examines the nature, scope and limits of salami-slicing, and aims to
+contribute to the understanding of salami-slicing by criticizing various approaches
+and arguments. In this context, the article seeks answers to the following questions:
+Is salami-slicing a kind of duplication or a type of self-plagiarism / auto-plagiarism?
+Is it necessary to publish the results of a research study as a single article? What does
+research integrity mean, and what are the things that disrupt the integrity? What
+are the appropriate and inappropriate forms of dividing a single research result into
+pieces or of generating more from one publication?
+The article first creates a conceptual framework for what salami-slicing is and is not
+after reviewing the definitions in the official legislation and relevant literature, and
+then, examines the reasons that make salami-slicing unethical, and finally, expresses
+opinions on what the scholarly journal editors and research institutions should do
+to avoid the problem of salami-slicing.
+This study concludes that salami-slicing is not exactly a duplication. Although there
+are explicit similarities with duplication in the sense of generating more than one
+publication from the same research, there may not be clear content matching
+between the publications produced by salami-slicing. Duplication can, due to this
+feature, be easily detected, while it is more difficult to notice a study produced by
+salami-slicing.
+Although salami-slicing is considered a kind of self-plagiarism or auto-plagiarism,
+these two conceptions technically represent two different actions. Self-plagiarism is
+the recycling or re-using of one’s own words from previously published texts
+without citing. The point of salami-slicing intersecting itself with plagiarism is to
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 49
+
+produce a new work from the same study, as in duplication. However, salami-slicing
+differs from self-plagiarism in terms of production method.
+Research studies differ from each other in terms of purpose, problem, scope, sample
+size, and number and nature of the questions investigated. There may be small
+studies with a very narrow definition of the research problem, as well as, be largescale research studies carried out by a large team aiming to solve multiple subproblems that can take years to conclude. Certainly, the results of the latter cannot
+be expected to be reported in a single publication, as in the former. Generating two
+or more publications from the first form of the research may not be ethical, but it
+may be ethical from the second one. Although it is possible to produce more than
+one publication from one research study, depending on the nature of the study,
+salami-slicing contains more meanings than merely producing more than one
+publication from one piece of research. For this reason, slicing is accepted as an
+unethical behavior due to some situations that may arise during the publication of
+the research results. These situations can roughly be listed as harming science and
+the dignity of scientists, as attempting to mislead, to gain unfair earnings,
+reputation, and promotion and making the researcher open to self-plagiarism,
+duplication, and copyright violation.
+In the process of publishing the research results, there are precautions that authors,
+editors, and higher education institutions must take in order to prevent the ethical
+problem of salami-slicing. Authors should first adopt a goal that goes beyond their
+egoistic expectations while engaging in science. Secondly, they should determine
+the number of publications they will produce from one study at the beginning of the
+research project and develop their projects accordingly. Authors should also be
+transparent about the source of the multiple publications and collaborate with the
+journal editor where the article is submitted. Finally, if they have works produced
+by salami-slicing, they should not present them as separate publications that will
+benefit them.
+The act of salami-slicing may not require an attempt by the editor to implement
+serious consequences for the author, such as plagiarism. A well-qualified and
+experienced journal editor, however, must, in an appropriate way, alert the author
+who commits this type of misbehavior. If the editor considers the author’s behavior
+as a deliberate action, s/he should add the author to his/her blacklist after rejecting
+the paper.
+Finally, in higher education institutions, a fair and equitable management approach
+that prioritizes quality, having attainable gradual achievement targets and updating
+these targets at reasonable intervals, and having clearly defined success criteria and
+rewards for researchers within the framework of this criteria will not allow for many
+ethical problems, including salami-slicing, to emerge from the outset.
+
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+50 ▪ Turgay Gündüz
+
+Giriş
+Yapılabilecek çok sayıda tanımının yanı sıra, çeşitli çalışma alanları içerisinde
+mensupların uymaları veya kaçınmaları gereken davranışlar bütünü olarak tanımlanabilecek olan etik, geçmişten günümüze hayatın neredeyse her alanında olduğu
+gibi, akademik bilginin üretimi ve yayımı bağlamında da kullanılan bir kavramdır.
+İslam kültüründe ahlak, edep ve adap gibi çeşitli kelimelerle karşılanan bu kavram,
+araştırma ve yayın etiği alt alanı içerisinde meslek mensuplarının uymaları ve kaçınmaları gereken davranışları konu edinir. Ebû Bekir er-Râzî’nin (865-925) ilim ve ahlak
+arasında olması beklenen sıkı ilişkiyi anlatan “Bir kantar ilim bir okka edebe muhtaçtır.”1 sözü oldukça özlü bir şekilde bu kadim hassasiyeti dile getirir. Bu hassasiyete
+günümüzde de aynı ölçüde ihtiyaç duyulduğu aşikârdır. Bu makalede, genel olarak
+bir araştırmadan birden fazla yayın üretmenin etik meşruiyeti sorgulanacak, daha
+özelde ise dilimleme konusunun araştırma ve yayın etiği açısından incelemesi yapılacaktır.
+Dilimleme, bilime zarar verdiği ve kaynakların israfına neden olduğu gerekçesiyle, kanun, yönetmelik ve yönergelerde tanımlanarak yayın etiğine aykırı bir eylem olarak kabul edilen, disiplin cezasını gerektiren2 ve zaman zaman idari soruşturmalara ve davalara konu olabilen bir sorundur.3 Yasal mevzuat tarafından tanımlanan etiğe aykırı eylemler arasında yer almasına rağmen dilimleme hakkında Türkiye’deki ilgili alan yazında ayrıntılı bilgiye rastlamak neredeyse mümkün değildir.
+Onlarca farklı araştırma yöntem ve teknikleri kitabında dilimleme konusuna ya hiç
+yer verilmemiş ya da çok kısa bir değini ile geçilmiştir. Bazı kaynaklarda bu konu
+“yinelenen yayın” veya “kopya yayın” (duplication) başlığı altında yer alırken,4 kimilerinde ise dilimlemenin yinelenen yayın (çifte yayın)dan oldukça farklı olduğu belirtilir. Bir kısım kaynaklarda ise, bir çalışmanın birden fazla bölüm veya makale ha-
+
+1
+
+2
+
+3
+
+4
+
+A. Süheyl Ünver, Tıp Tarihi: Tarihten Önceki Zamandan İslâm Tababetine ve İslâm Tababetinden XX. Asra
+Kadar (I. ve II. Kısımlar) (İstanbul: Ahmet İhsan Basımevi, 1943), 81; Ahmet Hulusi Köker, “Ebu Bekir
+Razi’nin Hayatı (865-925)” Ebu Bekir Razi (865-925), ed. Ahmet Hulusi Köker (Kayseri: Erciyes Üniversitesi Gevher Nesibe Tıp Tarihi Enstitüsü, 1988), 8.
+2547 sayılı YÖK Kanununun “Disiplin ve Ceza İşleri” başlıklı 9. bölümünde, 53. maddenin 3. fıkrasının
+(değişik: 2/12/2016 – 6764/26 md.) “g” bendinde “bir araştırmanın sonuçlarını, araştırmanın bütünlüğünü bozacak şekilde ve uygun olmayan biçimlerde parçalara ayırıp birden fazla sayıda yayımlayarak bu yayınları akademik atama ve yükselmelerde ayrı yayınlar olarak sunmak” aylıktan veya ücretten
+kesmeyi gerektiren cezalar arasında sayılmıştır.
+İlgili davalar için bk. Hüseyin Bilgin, İdari Davalar ve Çözüm Yolları (Ankara: Seçkin Yayıncılık, 2018),
+555 (dipnot 967).
+bk. Doğan Aksan - Ayşe Erzan - Adnan Güriz - M. Orhan Öztürk, Bilimsel Araştırmada Etik ve Sorunları
+(Ankara: Türkiye Bilimler Akademisi Yayınları, 2002), 38; Yeşim Işıl Ülman, “Bilimsel Bilgi Üretiminde
+Yayın Etiği”, Tıbbi Yayın Hazırlama Kuralları ve Yayın Etiği, ed. H. Yazıcı - M. Şenocak (İstanbul: Nobel,
+2006), 56.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 51
+
+linde yayınlanmasının, belli nedenlerle ve bir kısım şartların karşılanması durumunda anlaşılabilir olduğu ve etik sorun teşkil etmeyeceğine ilişkin tespitler bulunmaktadır.5
+Yabancı literatürde dilimlemeyi konu edinen çalışmaların önemli bir kısmı, genellikle sağlık alanında dergi editörleri tarafından kaleme alınmış başyazı (editorial)
+türü yazılardır. Türkiye’de de bu alandaki ilk yazıların yine tıp alanında çalışan akademisyenler tarafından kaleme alınmış olduğunu söylemek mümkündür. 6 Bu çalışmalar incelendiğinde dilimlemenin yaygın olarak “tek bir veri setinden, araştırma
+sorusu, hipotezleri, metotları ve sonuçları birbiriyle örtüşen birden fazla yayın oluşturmak” şeklinde anlaşıldığı görülmektedir. Bununla birlikte söz konusu literatürde,
+yayın etiği açısından dilimlemeyi kendinden aşırma (auto-plagiarism),7 hatta daha genel bir ifadeyle intihal8 veya tartışmalı olarak bir intihal türü9 olarak görenler olduğu
+gibi, şimdiye kadar yeterince tartışılmamış ihtilaflı bir konu olarak değerlendirenler10 de bulunmaktadır.
+Sosyal bilimler alanında gerek ulusal ve gerekse uluslararası literatürde, tekrar
+yayından farklı olarak, dilimleme konusundan etik bir sorun olarak pek fazla söz edilmez. Dolayısıyla bu alanda çalışan kıdemli araştırmacı ve akademisyenlerin dahi büyük bir kısmının böyle bir sorundan haberdar olmadıklarını söylemek mümkündür.
+Nitekim uluslararası yayınlarda araştırmacıların dilimleme konusunda bilgi sahibi
+olmamalarının, bu yolla yayın üretilmesinin nedenleri arasında olduğu tespit edilmiştir.11
+Son yıllarda Türkiye’de genel olarak yükseköğretimde özelde ise akademik yayınlarda niteliğin artırılması yönünde önemli adımlar atılmış, bu gelişmeler araştırma
+ve yayın etiği alanına olan ilginin artmasına ve üzerinde çalışılmamış belli konularda
+5
+
+6
+
+7
+
+8
+9
+10
+
+11
+
+bk. Mustafa Yaşar Demircioğlu, “İdari Yargı Kararları Çerçevesinde Bilimsel Yayın Etiği
+Soruşturmaları”, Ankara Barosu Dergisi 1 (2014), 193. Ayrıca bk. Philippe. Beaufils - Jon. Karlsson,
+“Legitimate Division of Large Datasets, Salami Slicing and Dual Publication. Where does a Fraud
+Begin?”, Orthopaedics and Traumatology: Surgery and Research 99/2 (2013), 121; Şevket Ruacan, “Bilimsel
+Araştırma ve Yayınlarda Etik İlkeler”, Gazi Tıp Dergisi 16/4 (2005), 148.
+bk. Ruacan, “Bilimsel Araştırma ve Yayınlarda Etik İlkeler”, 147-149; Kurtuluş Töreci, “Yayın Etiği
+(Etik Dışı Davranışlar ve Yazarlık)”, Ankem Dergisi 22/1 (2008), 44-51.
+Geoff Norman, “Data Dredging, Salami-slicing, and Other Successful Strategies to Ensure Rejection:
+Twelve Tips on How to Not Get Your Paper Published”, Advances in Health Sciences Education 19/1
+(2014), 3-4; Vesna Šupak Smolčić, “Salami Publication: Definitions and Examples”, Biochemia Medica
+23/3 (2013), 237.
+Serkan Dinçer, Akademik Yazım ve Araştırmacılara Öneriler (Ankara: Pegem Akademi, 2018), 73.
+Dinçer, Akademik Yazım ve Araştırmacılara Öneriler, 75.
+Eben L. Rosenthal vd., “Duplicate Publications in the Otolaryngology Literature”, The Laryngoscope
+113/5 (Mayıs 2003), 774.
+Christine Urbanowicz - Beth A. Reinke, “Publication Overlap: Building an Academic House with Salami
+Shingles”, The Bulletin of the Ecological Society of America 99/4 (2018), 2.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+52 ▪ Turgay Gündüz
+
+bilgi ihtiyacını karşılamaya dönük çabaların ortaya çıkmasına neden olmuştur. Böyle
+bir ihtiyacı kısmen de olsa karşılamak üzere, bu makalede dilimlemenin mahiyeti,
+kapsamı, sınırları incelenmekte, bu kavrama ilişkin farklı yaklaşımlar ve tartışmalar
+eleştirel bir gözle kritik edilerek dilimleme konusunun anlaşılmasına katkı sunulması amaçlanmaktadır. Makalede önce resmi mevzuatta ve ilgili literatürde yapılan
+tanımlar gözden geçirilerek dilimlemenin ne olduğuna ya da ne olmadığına ilişkin
+kavramsal bir çerçevenin oluşturulmasına gayret edilmekte, ardından dilimlemeyi
+etik açıdan sakıncalı kılan nedenler incelenmekte, son olarak, dilimleme sorunu ile
+karşılaşmamak için araştırmacı/yazarların, dergi editörlerinin ve araştırma kurumlarının yapması gerekenler üzerinde durulmaktadır.
+1. Dilimleme Nedir?
+Türkçe literatürde dilimleme bölerek yayınlama,12 salam dilimleme,13 yinelenen yayın ve salamlama15 gibi farklı isimlerle de kullanılmaktadır. İngilizce literatürde ise
+dilimlemenin karşılığı olarak salami-slicing, salamization, salami publication, salami science,16 bologna,17 trivial publication,18 peacemeal publication, fragmented publication,19 divided publication,20 segmented publication,21 vb. kelimeler kullanılmaktadır.
+14
+
+Tespit edebildiğimiz kadarıyla Türkiye’de dilimlemenin resmi belgelerde ilk defa
+tanımı 2003 yılında TÜBİTAK tarafından hazırlanan “TÜBİTAK Araştırma ve Yayın
+Etiği Kurulu Çalışma Esasları” metninde yer almıştır. Burada dilimleme (least publis-
+
+12
+13
+14
+15
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+Ruacan, “Bilimsel Araştırma ve Yayınlarda Etik İlkeler”, 147, 148.
+Aksan - Erzan - Güriz - Öztürk, Bilimsel Araştırmada Etik ve Sorunları, 38.
+Aksan - Erzan - Güriz - Öztürk, Bilimsel Araştırmada Etik ve Sorunları, 38.
+Kurtuluş Töreci, “Tıpta Yayın Etiği (Bizden de Örneklerle)”, Ankem Dergisi 18/1 (2010), 7.
+Edward J. Huth, “Irresponsible Authorship and Wasteful Publication”, Annais of internal Medicine 104
+(1986), 257.
+Suchet Trigotra - Shikha Jaisal – Anshu Mittal – Anu Bhardwaj, “Impact of a Publication Ethics
+Orientation Program on the Knowledge and Attitude of Postgraduate Students of Health Sciences”,
+Journal of Clinical Diagnostic Research 13/2 (2019), 7; US Department of Health & Human Services The
+Office of Research Integrity, “ORI Introduction to RCR: Chapter 9. Authorship and Publication”,
+(Erişim 16 Aralık 2019).
+Trigotra – Jaisal – Mittal - Bhardwaj, “Impact of a Publication Ethics Orientation Program on the
+Knowledge and Attitude of Postgraduate Students of Health Sciences”, 7.
+Mervyn Susser - Alfred Yankauer, “Prior, Duplicate, Repetitive, Fragmented, and Redundant
+Publication and Editorial Decisions”, American Journal of Public Health 83/6 (Haziran 1993), 792.
+Edward J. Huth, “Repetitive and Devided Publication”, Ethical Issues in Biomedical Publication, ed. Anne
+Hudson Jones - Faith McLellan (Baltimore & London: The Johns Hopkins University Press, 2000), 113.
+Šupak Smolčić, “Salami Publication: Definitions and Examples”, 237.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 53
+
+hable units), “bir araştırmanın sonuçlarını, araştırmanın bütünlüğünü bozacak şekilde ve uygun olmayan biçimde parçalara ayırarak çok sayıda yayın yapmak”22 şeklinde tanımlanmıştır. Bu tanıma, 04.09.2010 tarih ve 189 sayılı Bilim Kurulu kararıyla
+kabul edilen ve 15 Ekim 2010 tarihinde yürürlüğe giren “TÜBİTAK Araştırma ve Yayın Kurulu Yönetmeliği”nde “…veya yayınlamak için girişimde bulunmak” ilavesi yapılarak, dilimleme kapsamına giren bir çalışmayı sadece yayımlamak değil, “yayımlama girişiminde bulunmak” da etiğe aykırı fiiller arasına dâhil edilmiştir. Aynı Yönetmeliğin 07.11.2015 tarih ve 247 sayılı Bilim Kurulu kararı ile kabul edilen ve aynı
+tarihte yürürlüğe giren metinde dilimleme tanımındaki “çok sayıda yayın yapmak”
+ifadesi “birden fazla yayın yapmak” şeklinde değiştirilmiş, diğer kısımlar aynen korunmuştur. 12 Mayıs 2018 tarihli son değişik halinde ise bu tanımda herhangi bir değişiklik yapılmamıştır.23
+Yükseköğretim mevzuatında ise dilimleme ilk defa, 29.08.2012 tarih ve 2012.18.946
+sayılı Yükseköğretim Genel Kurulu kararı ile kabul edilen “YÖK Bilimsel Araştırma
+ve Yayın Etiği Yönergesi”nde tanımlanmıştır. Bu yönergede dilimleme; “bir araştırmanın sonuçlarını araştırmanın bütünlüğünü bozacak şekilde, uygun olmayan biçimde parçalara ayırarak ve birbirine atıf yapmadan çok sayıda yayın yaparak doçentlik sınavı değerlendirmelerinde ve akademik terfilerde ayrı eserler olarak sunmak” şeklinde tanımlanmıştır. 2014 tarihli “Yükseköğretim Kurumları Etik Davranış
+İlkeleri”nde ise “Tanımlar” başlığı altında “yapılmış bir çalışmayı, yayın sayısını artırmak amacıyla, bölerek tekrar yayımlamak“24 şeklinde “bölerek yayınlama” yani
+dilimleme tanımı yapılmıştır. Yükseköğretim Genel Kurulu tarafından bazı değişiklikler yapılarak yeniden yayımlanan 10.11.2016 tarih ve 2016.23.497 karar sayılı yönergede, “doçentlik sınavı değerlendirmelerinde ve akademik terfilerde ayrı eserler
+olarak sunmak” ifadeleri çıkarılarak, “akademik atama ve yükseltmelerde ayrı yayınlar olarak sunmak”25 ifadeleri eklenmiştir. “Üniversitelerarası Kurul Bilimsel Araştırma ve Yayın Etiği Yönergesi”ndeki dilimleme tanımı YÖK’ün yönergesiyle kelimesi kelimesine aynıdır.26 2547 sayılı YÖK Kanununun “Disiplin ve Ceza İşleri” başlıklı 9. bölümünde, 53. maddenin 3. fıkrasının (değişik: 2/12/2016 – 6764/26 md.) “g”
+bendinde de dilimleme yine şu benzer ifadelerle tanımlanmıştır: “Bir araştırmanın
+
+22
+23
+24
+25
+
+26
+
+TÜBİTAK Araştırma ve Yayın Etiği Kurulu Çalışma Esasları, TÜBİTAK (2003), md. 8.
+TÜBİTAK Araştırma ve Yayın Etiği Kurulu Yönetmeliği, TÜBİTAK (2018), md. 9/1-d.
+22.10.2014 tarih ve 62074 sayılı YÖK, “Yükseköğretim Kurumları Etik Davranış İlkeleri”, 2014, 3.
+YÖK, “Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi” (2017) Madde 8, 1.
+fıkrasının d bendi.
+bk. Üniversitelerarası Kurul, “Üniversitelerarası Kurul Bilimsel Araştırma ve Yayın Etiği Yönergesi”
+(y.y.) Madde 4, 1. fıkrasının d bendi.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+54 ▪ Turgay Gündüz
+
+sonuçlarını, araştırmanın bütünlüğünü bozacak şekilde ve uygun olmayan biçimlerde parçalara ayırıp birden fazla sayıda yayımlayarak bu yayınları akademik atama
+ve yükselmelerde ayrı yayınlar olarak sunmak.”27
+Resmi mevzuatta yapılan bu tanımların yanı sıra, dilimlemenin ne olduğuna ilişkin daha ayrıntılı bir anlayışa sahip olmak için ilgili literatürde yapılan tanımların
+da incelenmesi gerekir. Araştırma etiğinden ziyade yayın etiği ile ilgili yanı daha belirgin olduğundan dilimleme konusuyla ilgili çalışmaların çok büyük bir çoğunluğu
+dergi editörleri tarafından yapılmıştır. Çeşitli alanlarda akademisyen ve dergi editörleri tarafından yapılan tanımlarda dikkat çekilen hususiyetleri sıralamak gerekirse dilimleme;
+Kendi başına “iyi bir bütün” olabilecek bir çalışmayı, yayınlanabilir en küçük parçalara (least publishable units) ayırarak birden fazla yayın haline dönüştürmektir,
+Bir araştırma sonuçlarının, tek olabilecekken, birkaç makale halinde yayınlanmasıdır,28
+“Bir araştırmadan tek olabilecekken birden fazla yayın çıkarmaktır,”29
+Aynı çalışmadan birden fazla yayın çıkarma eyleminden dolayı, bir nevi, “kendinden aşırma (self-plagiarism)”dır,30
+Tek bir çalışmadan çok sayıda makale yayınlamayı ifade eden ve uygunsuz bir
+eylem içeren bir tür yayın ihlalidir,31
+Bir makalede verilmesi mümkün ve uygun olan bulguların çeşitli makalelere bölünmesidir,32
+Tek bir akademik yayın olarak sunulabilecek bir veri setinin, araştırmacının üretkenliğinin göstergesi olarak bir dizi makaleler halinde yayınlanmasıdır,33
+İki veya daha fazla çalışmada aynı çalışmanın farklı yönlerinin işlenmesi, bir çalışmanın muhtevasının parçalanarak çoğaltılmasıdır. 34
+27
+
+28
+29
+30
+31
+
+32
+33
+
+34
+
+bk. Milli Eğitimi Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı
+Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun (TBMM), Resmî Gazete
+29913 (02 Aralık 2016), md. 26/3.
+Töreci, “Yayın Etiği (Etik Dışı Davranışlar ve Yazarlık)”, 46.
+Töreci, “Tıpta Yayın Etiği (Bizden de Örneklerle)”, 7.
+Šupak Smolčić, “Salami Publication: Definitions and Examples”, 237.
+Debra Jackson vd., “Editorial: Multiple Outputs from Single Studies: Acceptable Division of Findings
+vs. ‘Salami’ Slicing”, Journal of Clinical Nursing 23/1-2 (Ocak 2014), 1.
+Töreci, “Tıpta Yayın Etiği (Bizden de Örneklerle)”, 7.
+Martin Tolich, Researching with Integrity: The ethics of Academic Inquiry, International Journal of Research &
+Method in Education 33 (2010), 87.
+Šupak Smolčić, “Salami Publication: Definitions and Examples”, 237.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 55
+
+Bütün tanımlar birlikte değerlendirildiğinde, Türkiye’deki resmi mevzuatta ve ilgili literatürde dilimleme eylemini oluşturan unsurların şunlar olduğu görülmektedir:
+(1) Bir araştırmanın sonuçlarını araştırmanın bütünlüğünü bozacak şekilde ve
+uygun olmayan biçimlerde parçalara ayırarak,
+(2) birbirine atıf yapmadan (önceki yayın[lar]dan hiç söz etmeden),
+(3) sırf yayın sayısını artırmak, CV kabartmak, üretkenliğin bir göstergesi olarak
+sunmak amacıyla,
+(4) birden fazla sayıda yayımlamak veya
+(5) yayımlama girişiminde bulunmak,
+(6) yayımlanan bu tür yayınları akademik atama ve yükseltmelerde ayrı yayınlar
+olarak sunmak.
+Dilimleme eylemini oluşturan bu unsurlar, dilimlemenin ne olduğunu kısmen
+açıklığa kavuşturucu olsa da bu unsurların en azından bir kısmının açıklanmaya ve
+tartışılmaya muhtaç olduğu aşikârdır. Dilimleme bir tekrar yayın türü ya da bir nevi
+kendinden intihal midir? Bir araştırmanın sonuçları mutlaka tek yayın olarak mı sunulmalıdır? Bir araştırmanın bütünlüğü ne anlama gelir, bütünlüğü bozan unsurlar nelerdir? Bir araştırma sonuçlarının parçalara ayrılması ya da birden fazla yayın haline
+dönüştürülmesi hangi durumlarda “uygun”, hangi durumlarda “uygun olmayan” biçimlerde gerçekleşmiş olur? Dilimleme iddiasında bulunulan bir eylemin etik açıdan
+sorunlu kabul edilebilmesi için yukarıda maddeler halinde sayılan hususların hepsinin mi bulunması gerekir? Ya da bunların hangilerinin bulunması durumunda etik
+açıdan sorun teşkil eden dilimleme eylemi ortaya çıkmış olur? Bu ve benzeri soruların ayrıntılı olarak cevaplandırılması konunun daha iyi anlaşılması açısından önem
+arz etmektedir.
+1.1. Dilimleme Bir Çeşit Tekrar Yayın ya da Kendinden İntihal midir?
+Araştırma ve yayın etiği ile ilgili bazı çalışmalarda dilimleme ile tekrar yayın/yinelenen yayın (duplication) arasında bir fark gözetilmemekte35 veya dilimleme bir tür
+tekrar yayın biçimi olarak değerlendirilmekte36 ya da bu ikisi arasında tartışmalı da
+
+35
+
+36
+
+bk. John A. Talbott, “Salami Slicing, Duplicative Publication, and Data Set Utilization”, The Journal of
+Nervous and Mental Disease 204/11 (Kasım 2016), 868; Aksan - Erzan - Güriz - Öztürk, Bilimsel Araştırmada
+Etik ve Sorunları, 38.
+Byron J. Bailey, “Duplicate Publication in the Field of Otolaryngology-Head and Neck Surgery”,
+Otolaryngology–Head and Neck Surgery 126/3 (Mart 2002), 212-213; Rosenthal vd., “Duplicate
+Publications in the Otolaryngology Literature”, 772.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+56 ▪ Turgay Gündüz
+
+olsa kayda değer ölçüde benzerlik olduğu ifade edilmektedir. 37 Aksan ve arkadaşlarına göre:
+Yinelenen yayın, aynı bilimsel araştırmanın birden çok dergiye yollanarak yayımlanması olayıdır. Mizahi bir terimle salam dilimleme de (salami slicing) denir. Tüm
+araştırma makalesi doğrudan iki ayrı dergide yayımlanabileceği gibi, gereksiz yere
+bölünerek ve hafifçe değiştirilerek birden çok dergide yayınlatılabilir. Bilimsel
+dergi editörleri bu sık görülen durumdan çok şikâyetçidirler ve yollanan makalenin başka yerde yayımlanmayacağına dair ‘yazılı olur’ isterler. Ayrıca, bazı bilim
+dergileri daha önce kendilerinde yayımlanmış makalelerin başka dergilerde çıkması durumunda bunu açıkça ilan ederler.38
+
+Yukarıdaki paragrafta görüldüğü üzere dilimleme ile yinelenen yayın eş anlamda
+kullanılmış, aynı paragrafta hem dilimlemenin hem de tekrar yayının tanımı birlikte
+ve iç içe verilmiştir. Bir yandan “Yinelenen Yayın” başlığı altında bu ifadenin tarifi
+yapılırken aynı zamanda aynı paragrafta “Tüm araştırma makalesi doğrudan iki ayrı
+dergide yayımlanabileceği gibi, gereksiz yere bölünerek ve hafifçe değiştirilerek birden çok dergide yayınlatılabilir.” denilerek kısmen de olsa dilimlemenin tarifi yapılmaktadır. Başka bazı yayınlarda dilimleme, tekrar yayının (duplication) bir türü olarak değerlendirilmekte ve tekrar yayının yaklaşık %20’sini bu tür yazıların oluşturduğu belirtilmektedir.39
+Esasen dilimleme tekrar yayın ile eş anlamlı bir kelime değildir. Aynı araştırmadan birden fazla yayın yapmak anlamında tekrar yayın ile benzerlikleri olsa da dilimleme yoluyla üretilmiş yayınlar arasında açık bir içerik benzerliği söz konusu olmayabilir. Hâlbuki tekrar yayında iki çalışma arasında farklı ölçülerde içerik benzerliği
+söz konusudur. Bu yüzden tekrar yayının tespit edilmesi daha kolay, dilimleme ile
+üretilmiş yayının tespiti daha zordur. Yine aynı nedenden ötürü, yinelenen yayına
+sıkça rastlanabilirken, dilimlemeye, biraz da teşhisinin tekrar yayına nazaran daha
+zor oluşundan dolayı, daha az sıklıkla rastlanmaktadır.
+Türkçe literatürde bölerek yayınlama olarak da geçen dilimleme ile tekrar yayın
+arasında kayda değer ölçüde benzerlik olsa da dilimlemeyi tekrar yayından ayıran
+bazı özellikleri bulunmaktadır.40 Tekrar yayın, aynı içeriğin ya hiç değiştirilmeden
+veya çok az değişiklikle, daha önce yayınlandığı notunu düşmeden, başka bir dergide
+tekrar yayınlanmasıdır. Tekrar yayında çoğaltma yatay bölümleme ile benzer veya
+aynı içerik kullanılarak yapılmaktadır. Bir yayının muhtevası, kısmen veya tümüyle,
+
+37
+
+38
+39
+40
+
+bk. Andrea L. Suárez vd., “Telling the Same Tale Twice: Déjà vu and the Shades of Grey in Selfplagiarism”, Dermatoethics: Contemporary Ethics and Professionalism in Dermatology, 2012, 234.
+Aksan - Erzan - Güriz - Öztürk, Bilimsel Araştırmada Etik ve Sorunları, 38.
+bk. Bailey, “Duplicate Publication in the Field of Otolaryngology-Head and Neck Surgery”, 213.
+Ian Norman - Peter Griffiths, “Duplicate Publication and ‘Salami Slicing’: Ethical Issues and Practical
+Solutions”, International Journal of Nursing Studies 45/9 (Eylül 2008), 1258.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 57
+
+başka yayınlarda da tekrar edilmektedir. Dolayısıyla yayın içerikleri arasında bir örtüşme söz konusudur. Hâlbuki dilimlemede tek bir araştırma, dikey olarak bölümlenerek çoğaltıldığından, yayınların içeriği birbirinden büyük ölçüde ayrı olabilir, aynılık veya benzerlik sadece aynı veri setinin, araştırma metodolojisinin, örneklemin
+kullanılmasından dolayı ortaya çıkabilmektedir. Başka bir deyişle tekrar yayın aynı
+içeriğin bütün olarak tekrar tekrar sunumu iken; dilimleme, aynı araştırma verisinin,
+parçalara ayrılarak kısım kısım sunumudur (bk. Şekil 1 ve Şekil 2).
+
+(A) Normal Yayın
+
+(B) Dilimleme ile
+
+(C) Dilimleme ile
+
+üretilmiş (iki) yayın
+
+üretilmiş (üç) yayın
+
+Şekil 1: Normal Yayın ve Dilimleme İle Üretilmiş Yayın Biçimleri
+
+Şekil 1’de (A) örneğinde normal bir yayın temsil edilmektedir. (B) örneğinde, (A)
+örneğinde kendi başına bir bütün teşkil eden bir çalışma ikiye bölünerek iki yayın
+(dilim) haline getirilmiştir. Burada görüldüğü üzere bu iki çalışma her ne kadar ayrı
+yayınlar olarak hazırlanmış olsa da ikisi ancak tam ve tekmil bir yayın olabilecektir.
+(C) örneğinde ise dilimler biraz daha inceltilerek, esasen bir yayın olabilecek bir araştırmanın sonuçları üç ayrı çalışma olarak hazırlanmıştır. (B) ve (C) örneklerindeki
+parçaların her birine “en küçük yayımlanabilir birim (least publishable unit / minimal
+publishable unit)” adı verilmektedir.41
+Bir araştırma sonuçlarının cinsiyet, yaş, meslek grubu esasına göre parçalanarak
+yayımlanması dilimleme için bir örnek olarak verilebilir. Yani aynı araştırma verilerinin erkek grubu ile ilgili sonuçlarının bir makale, kadın grubu ile ilgili sonuçlarının
+başka bir makale olarak hazırlanması veya ilk yetişkinlik ve orta yetişkinlikle ilgili
+41
+
+Huth, “Irresponsible Authorship and Wasteful Publication”, 257; Šupak Smolčić, “Salami Publication:
+Definitions and Examples”, 237.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+58 ▪ Turgay Gündüz
+
+sonuçlarının ayrı çalışmalar olarak yayınlanması açık bir dilimleme örneği olarak görülebilir.
+
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+
+…………
+…………
+…………
+…………
+…………
+…………
+…………
+
+……………
+……………
+……………
+……………
+……………
+……………
+……………
+……………
+……………
+……………
+……………
+……………
+
+(B)
+
+(A)
+
+………………
+………………
+………………
+………………
+………………
+………………
+………………
+………………
+………………
+………………
+………………
+………………
+
+(C)
+
+Şekil 2: Tekrar Yayın (Duplication) Örnekleri
+
+Şekil 2’de42 (A) örneğinde iki makalede sadece düşünce veya tez bakımından bir
+örtüşme var iken, araştırmanın verileri bakımından herhangi bir örtüşme bulunmamaktadır. Bu örnekte, bir makale aynı konuda başka bir makalenin yazılmasına kısmen de olsa zemin hazırlamıştır. Dolayısıyla, çoğu zaman, etik açıdan ciddi bir sorun
+oluşturmaz. (B) örneğinde hem düşünce hem de araştırmanın verileri itibariyle iki
+yayın arasında önemli ölçüde bir örtüşme söz konusudur. Bir başka deyişle, bir yayının bir kısım içeriğinden yeni bir yayın üretilmiştir. Böyle bir durumda yazar(lar)ın
+iki yerine tek yayın yapmayı düşünmelerinde yarar vardır. Zira tümüyle olmasa da
+kısmen bir tekrar söz konusudur. (C) örneğinde ise, iki makale birbirinin neredeyse
+kopyasıdır. Dolayısıyla bu durumda hem ciddi bir etik ihlali yapılmış hem de yasal
+olarak yayın hakları ihlal edilmiş olacaktır.
+Dilimlemenin bir nevi kendinden intihal olup olmadığı meselesine gelince, her
+ne kadar bazı yazarlar dilimlemeyi bir tür kendinden intihal (auto-plagiarism / selfplagiarism) olarak değerlendirseler43 de dilimleme ve kendinden intihal, teknik ola-
+
+42
+
+43
+
+Bu şekil, Urbanowicz - Reinke, “Publication Overlap: Building an Academic House with Salami
+Shingles”, 2’deki Şekil’den esinlenerek hazırlanmıştır.
+bk. Norman, “Data Dredging, Salami-slicing, and Other Successful Strategies to Ensure Rejection:
+Twelve Tips on How to Not Get Your Paper Published”, 4; Šupak Smolčić, “Salami Publication:
+Definitions and Examples”, 237.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 59
+
+rak, iki farklı şeyi anlatan kavramlardır. Kendinden intihal, yazarın daha önce yayınlanmış veya yayına sunulmuş bir çalışmasından usulüne uygun olarak kaynak göstermeksizin alıntı yapmasıdır. Kimi zaman aynı konuyu farklı açılardan incelemeyi
+amaçlayan birden fazla makaleler yazan bazı yazarlar sonraki çalışmalarında öncekilerden alıntı yapabilmektedirler. Öncekilerin de kendi çalışmaları olduğunu düşünerek atıf yapma gereği duymamaktadırlar. Yayın etiği açısından sorun teşkil eden
+bu durum, özellikle doçentlik jürilerinde fark edilerek işlem yapılmaktadır. Makaleler arasındaki konu ve kısmen içerik benzerliği dikkate alınarak, “Yükseköğretim Kurumları Bilimsel Araştırma ve Yayın Etiği Yönergesi” ve “Üniversitelerarası Bilimsel
+Araştırma ve Yayın Etiği Yönergesi”nde etiğe aykırı eylemler arasında sayılan “dilimleme” kapsamında değerlendirilerek işlem yapılabilmektedir. Esasen söz konusu
+eylem “kendinden intihal” kapsamında olduğu halde, muhtemel ki söz konusu yönergelerde etiğe aykırı eylemler arasında yer almadığından bazı jüri üyeleri tarafından “dilimleme” kategorisinde değerlendirilerek işlem yapılabilmektedir. 44
+Dilimleme ve kendinden intihalin birbirinin yerine kullanılmasının muhtemel
+başka bir nedeni, bu iki etiğe aykırı davranışın aynı çalışmada birlikte ve iç içe geçmiş
+olması da olabilir.
+1.2. Bir Araştırmadan Üretilen Birden Fazla Her Yayın Etik Açıdan Sorunlu
+mudur?
+Genel olarak, bir araştırmanın sonuçlarını yayımlanabilir en küçük birimlere ayırarak birden fazla yayın üretmek hoş karşılanan bir davranış olmasa da, bu tarz bir
+davranışın “ak” ve “kara” gibi doğru ve yanlış ya da etik ve etik dışı olarak ifade edilebilecek bir mevzu olmadığı açıktır. En azından konunun gri alanlarının olduğunu
+söylemek mümkündür. Bu yönü dolayısıyla, dilimlemeyi, etik dışı gören çoğunluğa
+karşın, sayıları az da olsa, etik bir eylem olarak değerlendirenler45 de bulunmaktadır.
+Her şeyden önce bilimsel araştırmalar; amacı, problemi, örneklemin kapsamı ve
+büyüklüğü, cevabı aranan soru veya soruların (alt problemlerin) adedi ve mahiyeti
+itibariyle birbirinden ayrılırlar. Her araştırma aynı büyüklükte, aynı kapsam ve derinlikte olmayabilir. Sınırları oldukça belirgin ve dar bir problem alanına sahip araştırmalar olabileceği gibi, sonuçlanması yıllar alabilen, geniş bir ekip tarafından gerçekleştirilen, çoklu alt problemleri çözmeyi amaçlayan büyük çaplı araştırmalar da
+yapılabilmektedir. Şüphesiz, bunların her ikisinin sonuçlarının da tek bir yayın ile
+rapor edilmesi beklenemez. Birincisinden iki yayın üretmek etik olmayabileceği gibi,
+
+44
+
+45
+
+Benzer bir örnek için bk. Akademik Hukuk ve Danışmanlık Bürosu, “Kendinden İntihal (SelfPlagiarism) Üniversitelerarası Kurul Bilimsel Araştırma ve Yayın Etiği Yönergesine Göre Etiğe Aykırı
+Eylemler Arasında Değildir ve Dilimleme Olarak Nitelendirilemez (Ankara 3. İdare Mahkemesi
+Yürütmeyi Durdurma Kararı)”, (Erişim 06 Mart 2020).
+Rosenthal vd., “Duplicate Publications in the Otolaryngology Literature”, 772, 774.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+60 ▪ Turgay Gündüz
+
+ikincisinden ikiden fazla yayın çıkarmak pekâlâ herhangi bir etik sorun oluşturmayabilir.
+Dilimleme, bir veri setinin sadece bir makalede sunulması gerektiğine ilişkin varsayıma dayalı olarak negatif bir eylem, hatta etiğe aykırı bir pratik olarak görülebilir.
+Ancak bir veri seti, çoklu alt veri setleri içeriyorsa ya da tek bir yayın ile rapor edilmesi mümkün olmayacak kadar büyük bir proje çıktılarının rapor edilmesi düşünülüyorsa veya araştırmanın ilk makalede tartışılmamış ikincil bir bulgusu varsa pekâlâ
+birden fazla yayın üretilmesi planlanabilir.46 Bazı nitel ve karma-yöntem araştırmaları tek bir makalede etkin bir şekilde rapor edilemeyecek ölçüde büyük değer üretebilir. Ayrıca yüksek lisans, doktora gibi lisansüstü çalışmaların kendi içinde bütünlük teşkil edecek alt bölümlerine dayalı olarak birden fazla yayın üretilmesi düşünülebilir.47 Pek çok konuyu içeren geniş kapsamlı sorulara cevap arayan araştırmalardan, sıklıkla daha fazla veri üretilir. Çoklu çıktılar içeren geniş çaplı araştırmalar,
+birden fazla makale üretilmesini gerekli kılabilir. Çok ciltli ilk elden kaynakları içeren
+sistematik incelemeler de tek bir rapor yerine daha fazlasını gerektirebilir. Öyle durumlar olabilir ki geniş ölçekli bir araştırmadan, bir inceleme makalesi, bir olgu sunumu türü makale, ilk çıktıları içeren bir makale ve ikincil analizleri rapor eden bir
+veya daha fazla başka makale hazırlanabilir. Bu durumda yazarların tek bir araştırmadan elde edilen bütün verilerden sadece bir makale üretmeye zorlanmaları beklenemez. Hatta “bir çalışmadan birden fazla yayın yapılamaz” gerekçesiyle bilim için
+ve pratikte son derece önemli sayılabilecek araştırma sonuçlarının bilim dünyasıyla
+paylaşılmaması etik açıdan sorun teşkil edebilir.48 Dolayısıyla bir araştırma projesini
+çoklu yayın haline dönüştürmek her zaman yanlış bir durum değildir. 49
+Kendilerinin de bir veri setinden birden fazla yayın yaptıklarını ifade eden Kirkman ve Chen, büyük veri setlerine sahip araştırmacıları “talihli” araştırmacılar olarak isimlendirir ve böyle büyük veri setinden birden fazla yayın çıkarmak isteyen
+araştırmacıların bunu nasıl yapacaklarına dair çok az sayıda rehber olduğundan yakınırlar. Bu ihtiyacı karşılamak üzere kaleme aldıkları, kişisel düşünce ve deneyimlerini paylaştıkları bir çalışmalarında, “Yazar(lar) gerçekten birden fazla makale yazmaya değer büyük veri setine sahip olduklarını nasıl anlayabilirler?”, “Tek bir veri
+setinden birden fazla makale hazırlayıp nitelikli dergilerde yayınlamak isterlerse
+46
+
+47
+
+48
+
+49
+
+Beaufils - Karlsson, “Legitimate Division of Large Datasets, Salami Slicing and Dual Publication. Where
+does a Fraud Begin?”, 121; Marisha Fonseca, “The Pitfalls of ‘Salami Slicing’: Focus on Quality and not
+Quantity of Publications”, Editage Insights (2013), 3; Jackson vd., “Editorial: Multiple Outputs from
+Single Studies: Acceptable Division of Findings vs. ‘Salami’ Slicing”, 1.
+Jackson vd., “Editorial: Multiple Outputs from Single Studies: Acceptable Division of Findings vs.
+‘Salami’ Slicing”, 1.
+Roger Watson vd., “How Many Papers Can Be Published From One Study?”, Journal of Advanced Nursing
+71/11 (2015), 2457.
+Kakol Majumder, “The Importance of Avoiding Salami Slicing in Publications: A Case Study”, Editage
+Insights (2016), 1.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 61
+
+hangi prosedürleri takip etmelidirler?” ve “Tek bir veri setinden birden fazla makale
+hazırlamaları halinde karşılaşabilecekleri belli başlı muhtemel problemler nelerdir?” sorularına cevap vermeye çalışmışlardır.50
+Demircioğlu’na göre de “yapılan yayınların geniş kapsamlı olması, dergilerin sözcük / kelime / sayfa sınırlamaları gibi nedenlerle bir çalışmanın birden fazla bölüme
+ayrılarak yayımlanması söz konusu olabilir.” 51 Ancak bu tür gerekçelerle bir araştırmadan birden fazla yayın yapılması, “sonraki yayımlanan çalışmalarda bir önceki yayınlara atıf yapılması, önceki yayının devamı olduğunun belirtilmesi ve en önemlisi
+de her bir yayının ayrı ayrı puanlamaya ya da asgari ölçütü sağlayan farklı yayınlar
+olarak gösterilmemesi”52 şartlarına bağlı olarak kabul edilebilir görülmektedir.
+Burada sorgulanması gereken husus şudur: Birden fazla alt veri setlerine sahip
+geniş kapsamlı bir araştırmadan üretilen özgün ve orijinal birden fazla çalışmanın
+her birinin ayrı ayrı puanlamaya dâhil edilmesi ya da asgari ölçütü sağlayan farklı
+yayınlar olarak sunulması da yayın etiği açısından bir mahzur teşkil etmez mi? Bu
+soruya cevap verirken ayırdında olunması gereken iki durum söz konusudur. Birincisi; yayına hazırlanan bir çalışmanın, yayımlanması planlanan derginin sözcük / kelime / sayfa sınırlamasından dolayı, geçmişte daha sıkça görülebilen uygulamalarda
+olduğu üzere, birkaç parçaya bölünerek yayımlanmasıdır. Bu durumda tek bir konu,
+sadece yayının uzunluğundan ve yayınlanacak derginin yer kısıtlamasından dolayı
+ikiye bölünmektedir. Bu tür çalışmalarda genel uygulama her iki makaleye aynı başlığın atılması ve başlıkların (I) ve (II) … olarak numaralandırılmasıdır. 53 Birbirinin devamı olduğu açık bir şekilde belli olan bu tarz çalışmalar, günümüzde çok makbul
+görülmeseler de etik bir sorun olarak görülen dilimleme kapsamında değerlendirilmemektedir.54 Bu tür çalışmaların akademik teşvik ve yükseltmeler için ayrı yayınlar
+olarak sunulmalarının etik açıdan sorun teşkil edip etmeyeceği ise tartışmaya açık
+50
+
+51
+52
+53
+
+54
+
+Bradley L. Kirkman - Gilad Chen, “Maximizing Your Data or Data Slicing? Recommendations for
+Managing Multiple Submissions from the Same Dataset”, Management and Organization Review 7/3 (02
+Kasım 2011), 433-435.
+Demircioğlu, “İdari Yargı Kararları Çerçevesinde Bilimsel Yayın Etiği Soruşturmaları”, 193.
+Demircioğlu, “İdari Yargı Kararları Çerçevesinde Bilimsel Yayın Etiği Soruşturmaları”, 193.
+Örnek olarak bk. Mustafa Kara, “Bursa Tekkelerinde Şeyhlik Yapan Mutasavvıflar (I)”, Uludağ
+Üniversitesi İlahiyat Fakültesi Dergisi 3/1 (01 Ocak 1991); Mustafa Kara, “Bursa Tekkelerinde Şeyhlik
+Yapan Mutasavvıflar (II)”, Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 3/1 (01 Ocak 1991); Hayati
+Hökelekli, “Ölümle İlgili Tutumların Dini Davranışla İlişkisi Üzerine Bir Araştırma I”, Uludağ
+Üniversitesi İlahiyat Fakültesi Dergisi 4/1 (01 Ocak 1992); Hayati Hökelekli, “Ölümle ilgili Tutumların Dini
+Davranışla İlişkisi Üzerine Bir Araştırma II”, Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 4/1 (01 Ocak
+1992); Ethem Cebecioğlu, “Şemseddin-i Tebrizi’nin Kur’an-ı Kerim Ayetlerine Getirdiği Bazı İşari
+Yorumlar (I)”, Ankara Üniversitesi İlahiyat Fakültesi Dergisi 39/1 (01 Nisan 1999); Ethem Cebecioğlu,
+“Şemseddin-i Tebrizi’nin Kur’an-ı Kerim Ayetlerine Getirdiği Bazı İşari Yorumlar-II”, Ankara
+Üniversitesi İlahiyat Fakültesi Dergisi 41/1 (01 Nisan 2000).
+bk. Töreci, “Tıpta Yayın Etiği (Bizden de Örneklerle)”, 7.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+62 ▪ Turgay Gündüz
+
+bir konudur. Çünkü ilk makale ile sonrakilerin araştırma sorusu birbirinden farklı
+değildir. Birbiri ardı sıra yayımlanan makalelerin hepsinin amacı aynı araştırma sorusuna cevap bulmaktır. Bununla birlikte her bir makale kendi içinde bir bütün oluşturacak şekilde, farklı alt problemleri cevaplamayı amaçlayan bir muhtevaya sahip
+de olabilir. İkinci durum ise; yayına dönüştürülmesi planlanan veri setinin tek yayınla
+rapor edilmesi mümkün olmayacak kadar büyük ve birden fazla hipotezi test etmeyi
+amaçlıyor olmasından dolayı birden fazla yayına dönüştürülmesidir. Dolayısıyla bu
+ikinci durumda aynı veri setinden üretilmiş birden fazla yayının, velev ki her bir yayın ayrı ayrı puanlamaya ya da asgari ölçütü sağlayan farklı yayınlar olarak gösterilse
+dahi, etik bir sorun teşkil etmemesi gerekir. Ünal ve arkadaşları bu durumu şöyle
+örneklendirmektedir:
+“… [k]işi dört farklı konudan oluşan bir alan araştırması yapmış ve her bir konuyu
+müstakil bir yayına dönüştürmüşse, bunu dilimleme olarak değerlendirmek uygun
+olmayabilir. Sonuçta, olgusal durum bilgileri (deneklerin kimlikleri, eğilimleri, evren, örnek hacmi ve dağılımı gibi) dört yayının hepsinde de aynı olacaktır; ancak,
+bu bir yayından çoğaltma yapma anlamına gelmez. Burada ana veri seti, dört alt
+veri setini kapsamaktadır.”55
+
+Özetle; dilimlemenin yaygın olarak kabul edilen tanımlarına ve ilgili literatürdeki
+tartışmalara bakıldığında, “araştırmanın bütünlüğüne” zarar vermeden ve “uygun
+biçimlerde” bölümleme yaparak bir araştırmadan birden fazla yayın üretmenin etik
+bir sorun oluşturmayacağı söylenebilir.56 O halde dilimleme niçin yaygın olarak etik
+açıdan sakıncalı bir eylem olarak görülmektedir?
+2. Dilimlemeyi Etik Açıdan Sakıncalı Kılan Nedenler
+Her ne kadar bir araştırmadan, araştırmanın mahiyetine bağlı olarak birden fazla
+yayın üretmek mümkün olsa da literatürde etik bir sorun olarak görülen dilimleme,
+basitçe bir araştırmadan birden fazla yayın üretmekten daha fazla anlamlar içermektedir. Onun için dilimleme, araştırma sonuçlarının yayın haline dönüştürülmesi sürecinde ortaya çıkabilecek bazı özel durumlara binaen etik dışı bir davranış olarak
+görülmektedir. Bunlar, genel olarak, bilime ve bilim insanının saygınlığına zarar vermesi,
+yanıltmaya, haksız kazanç, itibar ve terfi elde etmeye teşebbüs içermesi ve araştırmacıyı kendinden intihal, tekrar yayın ve yayın haklarını ihlale açık hale getirmesi olarak sıralanabilir.
+
+55
+
+56
+
+Mehmet Ünal vd., “Bilim Etiğine Aykırı Davranışlar ve Yaptırımlar: Sosyal Ve Beşeri Bilimler Için Bir
+Çerçeve Önerisi (Ethical Violations and Sanctions in Scientific Publications: A Framework Proposal
+for Social Sciences and Humanities)”, SSRN Electronic Journal (February 2012), 23.
+Pippa Smart, “Redundant Publication and Salami Slicing: The Significance of Splitting Data”,
+Developmental Medicine & Child Neurology 59/8 (Ağustos 2017), 775.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 63
+
+(1) Bilime ve bilim insanının saygınlığına zarar vermesi
+Bir araştırma sonuçlarının birden fazla yayın haline dönüştürülmesinin bilime ve
+bilim insanının saygınlığına zarar verip vermediği nasıl tespit edilebilir? Şüphesiz
+bunu mümkün kılan bazı temel kabuller veya ilkeler söz konusudur.
+Her şeyden önce, akademik yazım ve yayın sürecinde öncelikli aranan hususiyetlerden biri araştırmanın bütünlüğü (research integrity)dür. Güvenilirlik, dürüstlük,
+özenli ve titiz davranma, şeffaflık ve iletişime açıklık, saygı ve hesap verebilirlik araştırma bütünlüğünü sağlayan ana unsurlardır.57 Bilimsel çalışmasının sonuçlarını yayına hazırlarken verilerin toplanmasından rapor edilmesine kadarki süreçte araştırmacının dürüst ve güvenilir olması, tüm süreçleri açık bir şekilde ifade etmesi, araştırma sonuçlarının geçerliliği ve güvenirliği için azami çaba sarf etmesi beklenir. Dilimlemeyi etiğe aykırı bir eylem haline getiren de, bu beklentilerin aksine, araştırmacının esasen tek bir makale olması halinde daha güçlü sonuçlar üretmesi muhtemel olan bir çalışmayı bilim adına bir yarar gözetmeksizin sırf kişisel menfaat elde
+etme uğruna birden fazla yayın haline dönüştürme ve bu yayınları birbirinden tamamen farklı araştırmalara dayalı çalışmalarmış gibi sunmaktır. Dolayısıyla, bu süreçte
+araştırmanın bütünlüğünü temin eden güvenilirlik, dürüstlük, iletişime açıklık ve
+şeffaflık ilkeleri ihlal edildiğinden dilimleme eylemi etik dışı bir davranış olarak kabul edilmektedir.
+Bir çalışmanın ait olduğu bütünden kopartılarak birden fazla makale olarak yayımlanması, hem yapılan araştırmanın bütünlüğünün bozulmasına ve sonuçlarının
+etkili bir şekilde ilgililerle paylaşılamamasına hem de yayımlanan birden fazla çalışmanın her birinin bir bilimsel çalışmada bulunması gereken nitelikten uzak, yapay
+bir bölümleme ile çoğaltılan zayıf çalışmalar olarak yayımlanmasına neden olmaktadır. Ayrıca, bu tarzda üretilen gereksiz addedilebilecek çalışmaların oluşturduğu kalabalık, okuyucuyu ve diğer ilgili araştırmacıları boş yere meşgul etmekte ve zamanlarının heba olmasına sebebiyet verebilmektedir.
+Bir araştırma sonucunun haklı bir gerekçe ile birden fazla yayın haline mi getirildiği yoksa yapay olarak bölerek mi yayımlandığının genel olarak kabul edilen ölçüsü,
+söz konusu birden fazla çalışmanın esasen tek bir makale olarak yayınlanabilir nitelikte olup olmadığıdır. Eğer tek bir çalışma olarak yayımlanabilir nitelikte ise dilimlemeden ve dolayısıyla etiğe aykırı bir durumdan söz edilebilir. 58 İki veya daha fazla
+57
+
+58
+
+bk. All European Academies (ALLEA) - the European Science Foundation (ESF), The European Code of
+Conduct for Research Integrity, Revised ed (Berlin: ALLEA - All European Academies, 2017), 4; UK
+Research Integrity Office, The Concordat to Support Research Integrity (UK Research Integrity Office,
+2019), 6; Francis L. Macrina, Scientific Integrity, 4. Baskı (Washington, D.C.: ASM Press, 2014), 37.
+Nitekim, Ankara 5. İdare Mahkemesince görülen bir davada, “Aynı yıl yayımlanan A6 ve A7 makaleler
+beraber yayımlanabilir niteliktedir.” hükmüne binaen “dilimleme veya bölerek yayımlama olarak
+tanımlanan etik ihlale uymaktadır” denilerek ayrı çalışmalar olarak yayımlanan makalelerin “beraber
+yayımlanabilecek nitelikte” oluşları etik ihlal için gerekçe oluşturmuştur. Söz konusu karar için bk.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+64 ▪ Turgay Gündüz
+
+çalışmada aynı çalışmanın farklı yönleri işlendiğinden muhtevanın parçalanarak çoğaltılması durumu ortaya çıktığı için, bu durum yayın etiği açısından ciddi bir suistimal olarak değerlendirilmektedir.59
+Burada önemle vurgulanması gereken bir husus, araştırma bütünlüğünün sadece
+araştırmacı ile sınırlı bir mesele olmadığıdır. İyi araştırma pratiklerinin ortaya çıkabilmesi için, araştırmacıların yanı sıra, çalıştıkları kurumlar ve araştırmaya destek
+sağlayan kuruluşlar, araştırma bütünlüğü için uygun ortamlar hazırlamalı, kurum
+içerisinde bu bütünlüğü bozacak olumsuz atmosferin oluşmasına izin vermemelidirler. Örneğin, akademik teşvik ve yükseltme kriterleri sadece nicelik yerine niteliği de
+dikkate alan bir ölçme sistemini esas alan bir yaklaşımla hazırlanmalıdır. Onun için,
+bir araştırma sonuçlarının yayına dönüştürülmesinde evvel emirde önemle vurgulanması gereken husus, yayınların sayısı değil bütün unsurlarıyla araştırmanın bütünlüğü olmalıdır.
+Dilimlemeyi etik açıdan sakıncalı hale getiren bir başka husus ise emek, zaman ve
+kaynak israfına neden olmasıdır. Araştırmacılar dilimleme ile yayın çoğaltmak için
+ayıracakları zamanlarını yeni araştırmalar yapmaya ayırarak bilimin gelişmesine
+katkı sağlayabilirler. Bu anlamda hem araştırmacının zamanının, hem de bilim için
+tahsis edilen kurumsal imkânların heba edilmesine yol açmaktadır. Diğer taraftan,
+bu çalışmaları inceleyen editör ve hakemlerin de kıymetli zamanlarını israf etmelerine neden olmaktadır. Hakemlerin, bir yayını incelemek için ayıracakları zamanlarını, aynı araştırma verilerinden üretilmiş benzer sonuçları içeren birden fazla yayını incelemeye ayırmaları hem harcadıkları zamanın uzamasına hem de yaptıkları
+işin kalitesinin düşmesine neden olmaktadır. Bazı dergiler, editör ve hakemlere yaptıkları birim iş karşılığında ücret ödemektedirler. Kütüphaneler de içerdikleri yayın
+sayılarına göre veri tabanlarına ücret öderler. Eğitim kurumları ise üretkenliklerinin
+bir göstergesi olarak akademisyenlere yaptıkları her yayın karşılığında ödüllendirme
+veya akademik teşvik çerçevesinde ilave maddi veya manevi destek sağlarlar. Dolayısıyla dilimleme ile yayın sayısının suni olarak artırılması, editörlerden hakemlere,
+yayıncılardan akademik kurumlara ve kütüphanelere kadar pek çok birimin maddi
+kaynaklarının ve insan gücünün gereksiz yere harcanmasına ve haksızlıkların yaşanmasına neden olur.
+Gerek araştırmanın bütünlüğünün bozulması ve gerekse emek, zaman ve kaynak
+israfı bilime ve bilim insanına zarar veren durumlar olduğundan, bu olumsuzlukları
+içinde barındıran dilimleme etik açıdan sakıncalı bir eylem olarak kabul edilmektedir.
+
+59
+
+Demircioğlu, “İdari Yargı Kararları Çerçevesinde Bilimsel Yayın Etiği Soruşturmaları”, 194 (dipnot
+86).
+bk. Šupak Smolčić, “Salami Publication: Definitions and Examples”, 237.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 65
+
+(2) Yanıltmaya ve Haksız Kazanç / İtibar / Terfi Elde Etmeye Teşebbüs İçermesi
+Bir araştırmadan birden fazla yayın üretmeyi etiğe aykırı hale getiren bir başka
+husus, yayın sürecinde editörün, daha sonraları ise araştırmacının akademik performansını değerlendiren kişi veya makamların ve okuyucunun bilmesi gereken araştırmanın mahiyetine dair bilgilerin açık bir şekilde beyan edilmemesi ve onlardan
+saklanmasıdır. Sonuçta yayın süreci ve sonrasında araştırma sonuçlarıyla karşılaşacak olan birden fazla çevrenin yanıltılması söz konusudur. 60 Zira bu davranışla daha
+çok özgün yayın yapıldığı izlenimi verilmekte ve bu sözde üretkenlik dolayısıyla haksız çıkar sağlanmaktadır. Bu yanıltma neticesinde, tek bir yayın olması halinde çok
+iyi bir araştırma makalesi olabileceği halde, aynı araştırma sonuçlarını birden fazla
+daha zayıf birkaç yayın haline getirme sadece araştırmanın bütünlüğüne zarar vermemekte, aynı zamanda haksız kazanç, itibar veya terfi elde etme gibi genel ahlak
+açısından herkes tarafından olumsuz addedilen fiiller de işlenmektedir.
+Ayrıca, bu usulle sağlanan haksız çıkar sadece bu davranışın sahibine değil, aynı
+zamanda mesleğinin gereğini hakkıyla yerine getirmek için çaba sarf edenlerin adalet duygularının zedelenmesine ve çalışma azimlerinin kırılmasına neden olarak başkalarına da zarar vermektedir.
+Bu sakıncaları dolayısıyla, bir araştırmadan üretilen ikinci bir yayının, önceki yayından hiç söz edilmeksizin başka bir dergiye gönderilmesi ve bu durumun editörler
+tarafından tespit edilmesi ciddi bir etik ihlali olarak değerlendirilmektedir. Yazar(lar)ın bu tür bir çalışmayı dergiye gönderirken aynı yayından daha önce üretilen
+çalışmadan söz etmeleri ve iki yayın arasındaki farkları açıkça belirtmeleri halinde,
+editörlerin ikisini karşılaştırarak bir karar vermelerine imkân tanınmasından dolayı
+bu durum, taşıdığı diğer kusurlara rağmen, yanıltmaya teşebbüs içermemesinden
+dolayı editörler tarafından daha ehven bir sorun olarak değerlendirilebilmektedir.61
+Bir araştırma sonuçlarının, daha fazla yayın için parçalara bölünmesinin yapay
+olup olmadığının temel ölçüsünün ne olduğu şüphesiz cevap bekleyen bir konudur.
+Araştırma sonuçlarını yayın haline dönüştürmede esas alınan temel yaklaşım bölmenin de niteliğini etkileyecektir. Eğer temel yaklaşım “daha fazla yayın” ise, yayın çoğaltma işleminin “en küçük yayımlanabilir birimler” esas alınarak yapay bir bölme
+ile yapılması kaçınılmaz olabilecektir. Burada esas amaç niceliksel artış sağlamaktır.
+
+60
+
+61
+
+“Aynı araştırmanın bölümlerini yansıttığı halde farklı araştırmalar gibi algılanacak şekilde
+sunulması” ve dilimlemeye konu olan yayınlarda “aynı araştırmanın bölümlerinin sunulduğuna
+ilişkin yeterli bilgi verilmesinin ihmal edilmesi” yukarıda bahsi geçen Ankara 5. İdare Mahkemesi
+kararında dilimleme eylemine başvuran kişinin haksızlığı için bir gerekçe olarak sayılmıştır. bk.
+Demircioğlu, “İdari Yargı Kararları Çerçevesinde Bilimsel Yayın Etiği Soruşturmaları”, 194 (dipnot
+86).
+Martin G. Tolsgaard vd., “Salami-slicing and Plagiarism: How should We Respond?”, Advances in Health
+Sciences Education 24/1 (12 Mart 2019), 3-14.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+66 ▪ Turgay Gündüz
+
+Dilimleme ile üretilen yayınların nitelikten ziyade niceliğe önem veren bir yaklaşımın ürünü olduğu ise bilinen bir husustur. Fakat temel yaklaşım, nitelikli bir yayın
+ile bilime ve bilim camiasına katkı sağlamak ise, bölümlemede yayının metodolojisinin özgün ve sonuçlarının güçlü olması temel ölçüt olacaktır.
+(3) Araştırmacıyı, Kendinden İntihal, Tekrar Yayın ve Yayın Haklarını İhlale Açık
+Hale Getirmesi
+Bir veri setinden birden fazla yayın üretmek, bazen tekrar yayın olarak bilinen,
+etik açıdan sakıncalı başka bir davranışın ortaya çıkmasına da sebebiyet verebilir.
+Çünkü başlangıçta tek yayın olarak tasarlanan bir çalışma belli bir amacı gerçekleştirmeyi hedefliyor ve bu amaca erişmek için belli bazı araştırma yöntemlerinden yararlanıyorsa, bu çalışmanın daha sonra birden fazla yayın haline dönüştürülmesi durumunda yapılan yayınlar arasında amaç ve metot olarak örtüşme olması kaçınılmaz
+olacaktır. Ayrıca araştırmanın teorik temelini oluşturan bilgilerin, dilimleme ile üretilen yayınlarda ortak olması ihtimali de vardır. Bu yönü dolayısıyla dilimleme “büyük bir veri setinin uygun bir şekilde bölünmesi ile bir çalışmayı iki kere yayınlama
+arasında duran” bir eylem olarak da tarif edilmiştir. 62 Bir araştırmanın amaçları, metotları ve araştırma deseninde en azından bir miktar örtüşmenin (dublikasyon) olması bilimsel literatüre gereksiz içeriğin karıştırılması ve onun safiyetinin bozulmasına, bilim camiasının lüzumsuz bir içerikle meşgul edilmesine sebebiyet vermesi dolayısıyla yayın etiği açısından sakıncalı kabul edilmektedir.63
+Dilimleme ile üretilen yayınlarda yer alabilecek dublikasyon türünden bu tür bilgilerin bir önceki yayından kaynağı gösterilmesi halinde etik ihlal sadece tekrar yayın veya gereksiz yayın işlemi ile sınırlı kalacaktır. Kaynağın gösterilmemesi durumunda ise kendinden intihal (self-plagiarism) fiili işlenmiş olacaktır.
+Aynı araştırmadan dilimleme ile üretilen bu tür çalışmaların başka yayıncılara ait
+farklı dergilerde yayımlanması durumunda ise, söz konusu çalışmaların yayın haklarının yayıncı kuruluşa devredilmiş olma durumuna göre, yazarı, içeriğin bir kısmını
+yasal sahibinden izinsiz olarak başka bir yerde yayınlamak gibi telif haklarının ihlal
+durumu ile karşı karşıya getirecektir.
+
+62
+
+63
+
+Beaufils - Karlsson, “Legitimate Division of Large Datasets, Salami Slicing and Dual Publication. Where
+does a Fraud Begin?”, 121.
+John M. Budd - Kristine N. Stewart, “Is There Such A Thing as ‘Least Publishable Unit’? An Empirical
+Investigation”, Libres 25/2 (2015), 78-85; Michael B. Wallace vd., “Ethics in Publication, Part 2:
+Duplicate Publishing, Salami Slicing, and Large Retrospective Multicenter Case Series”, Gastrointestinal
+Endoscopy 87/5 (Mayıs 2018), 1335-1337.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 67
+
+3. Dilimleme Sorunu İle Karşılaşmamak için Neler Yapılabilir?
+Dilimleme sorunu ile karşılaşmamak için yazarların, dergi editörlerinin ve araştırma kurumlarının yerine getirmeleri gereken sorumluluklar vardır. Şimdi bunların
+neler olabileceğini incelemeye çalışalım.
+3.1. Araştırmacıların Riayet Etmesi Gereken Hususlar
+Dilimleme eyleminin faili ve dolayısıyla etik sorunun ilk muhatabı araştırmacı ya
+da yazardır. Dolayısıyla öncelikle etik bir sorunla karşı karşıya gelmemeleri için araştırmacıların şu hususlara dikkat etmelerinde yarar vardır:
+(1) Her şeyden önce, araştırmacı, kendini aşan yüce bir hedefe sahip olmalıdır.
+Kendisi yerine başkasını tercih etmek, bencillik yerine diğerkâmlık bütün büyük
+dinî geleneklerin temel ahlaki erdemleri arasında yer alır. Bu çerçevede, araştırmacı
+akademik yayınlarındaki hedeflerini yeniden gözden geçirmeli, niçin araştırma yaptığı ve hangi maksatla araştırma sonuçlarını yayına dönüştürmek istediği üzerinde
+düşünmelidir. Şüphesiz hem araştırma yapmak hem de araştırma sonuçlarını bilimsel ölçülere uygun bir şekilde raporlayarak bilim camiasıyla paylaşmak ve insanlığın
+istifadesine sunmak araştırmacının asli görevlerindendir. Ancak, bu görevin mahiyetinin özde neyi gerektirdiğine ilişkin araştırmacı sağlam bir bilinç geliştirmelidir.
+Araştırma sonuçlarını yayına dönüştürmede etkili olan temel dürtüyü kontrol ederek, çalışmalarını kişisel ikbal yerine bilimin ve insanlığın yararı istikametinde yönlendirmelidir. Bu çerçevede tek bir yayın için büyük olduğunu düşündüğü bir veri
+setini daha küçük parçalara bölmeye karar verdiğinde, bunun evvel emirde kendi
+menfaati için mi yoksa bilime katkı ve insanlığın üstün yararı için mi yapılması gerektiğini sorgulayıp, kendisiyle sınırlı küçük hesaplar yerine, bunun hiç olmazsa biraz ötesine uzanan daha yüce bir hedef doğrultusunda hareket etmelidir.
+(2) Bir araştırmadan yapılması planlanan yayın sayısı, araştırma projesinin başlangıcında iken kararlaştırılmalı ve proje bu doğrultuda yapılandırılmalıdır.
+Esasen dilimlemeden kaçınmanın en kolay yolu tümüyle yeni bir çalışma yapmak
+ve önceki metinler üzerinde değişiklikler yaparak yeni makale üretmeye tevessül etmemektir. Ancak, yayına dönüştürülmesi planlanan veri setinin büyüklüğü, kendi
+içinde bir bütün teşkil eden alt problemleri barındırması bir araştırmadan birden
+fazla yayının yapılmasını gerektirebilir. Araştırma projesinin küçük veya büyük olması, tek kişi veya birden fazla kişiden oluşan bir ekip tarafından gerçekleştirilecek
+olması bu durumu büyük ölçüde değiştirmez.64 Böyle bir durumda araştırmacılar,
+araştırma sonuçlarından çıkarmak istedikleri yayınları araştırma projesinin başlangıç aşamasında iken belirlemeli ve araştırmanın amacını ve alt amaçlarını, araştırmanın problemi ve alt problemlerini kendi içinde bir bütün oluşturacak şekilde ya-
+
+64
+
+Watson vd., “How Many Papers Can Be Published From One Study?”, 2458.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+68 ▪ Turgay Gündüz
+
+pılandırmalıdırlar. Bu şekilde yazarlar, birden fazla yayın yapmak için ihtiyaç duyacakları verileri etkili bir şekilde toplamak için gerekli yol haritasına da sahip olacaklardır. Nitel araştırmalarda araştırma sürecine dair bütün ayrıntılar başlangıçta tam
+olarak kestirilemeyeceğinden başlangıçta yayın sayısına dair bir planlama mümkün
+olmayabilir. Bu durumlarda, en azından veri toplama tamamen sonlanmadan araştırma sonuçlarının nasıl raporlanacağına dair bir planlamanın yapılmasında yarar
+vardır. Aksi halde, toplanan verilere bakarak yapacakları yayınlara karar vermeye
+kalkıştıkları zaman yayınlarının muhtevalarını ellerindeki veriye uydurmak zorunda
+kalabilirler. Bu da ürettikleri çoklu yayınların içeriğinin yetersiz ve zayıf olmasına
+neden olacaktır.
+(3) Yayına dönüştürülmesi planlanan bir çalışmanın birden fazla yayına uygun
+olup olmadığından emin olunmalıdır.
+Dilimleme tanımlarının özünü oluşturan önemli unsurlardan biri, yukarıda işaret
+edildiği üzere, araştırma sonuçlarının “uygun olmayan biçimlerde” parçalanmasıdır.
+O halde uygun biçimlerde bölümleme nasıl yapılabilir? Esasen, bu sorunun cevabı
+öncelikle, yayına dönüştürülmesi düşünülen araştırmanın çoklu yayına uygun olup
+olmadığıyla ilgili bir husustur. Araştırmanın yapısı çoklu yayına uygun değilse, hiçbir şekilde uygun bölümleme de mümkün olmayacaktır.
+“Çoklu makale yazabileceğiniz bir veri setine sahip olduğunuzu nasıl bilirsiniz?”
+sorusuna Kirkman ve Chen, “her şeyden önce ‘benzersizlik analizi’ yaparak” şeklinde
+cevap verilebileceğini ve bunun da ancak yayınlanması düşünülen makalelerin araştırma soruları, dayandığı teoriler, içerdikleri yapılar/değişkenler, teorik çıkarımlar
+ve araştırma sonuçlarına dair yorumları karşılaştırılmak suretiyle yapılabileceğini
+ifade eder.65
+Her şeyden önce bilimin gayesi yeni bilgi inşa etmek ve mevcut bilgilerimize yenisini katmak olduğundan, aynı veri setinden üretilen her bir makaleye hatırı sayılır
+düzeyde ilave teorik katkılar yapıldığından ve bu makalelerin her birinin literatüre
+yeni ve orijinal katkılar sağlayacağından emin olunmalıdır. Ayrıca, bu orijinal katkıların ne olduğu makalelerde açık bir şekilde ifade edilmelidir.66
+Yayına hazırlanması düşünülen her bir makalenin kendine özgü bir araştırma sorusu olmalıdır. Her bir makalede farklı araştırma soruları ve teorilerinin işe koşulması halinde araştırma sorularına cevap ararken belli düzeyde birbiriyle örtüşen değişkenlerin kullanımı daha az sorun teşkil edebilir. Ancak, araştırmacılar tek bir veri
+setinden farklı makaleler çıkarma mahareti sergilerken, her bir makalede özgün teorik ve ampirik katkı sunulduğunu temin etmek için, makalelerde birbiriyle örtüşen
+65
+
+66
+
+Kirkman - Chen, “Maximizing Your Data or Data Slicing? Recommendations for Managing Multiple
+Submissions from the Same Dataset”, 441.
+Kirkman - Chen, “Maximizing Your Data or Data Slicing? Recommendations for Managing Multiple
+Submissions from the Same Dataset”, 441.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 69
+
+değişkenleri olabildiğince minimize etmeye çaba göstermelidirler. Makalelerin literatür incelemesi ve metot kısımları da birbirinden bağımsız bir şekilde yeniden yazılmalıdır. Aksi halde tek bir veri setinden birden fazla makale üretme çabası etik
+açıdan sakıncalı bir eylem olarak görülebilecektir. 67
+Araştırmanın bütünlüğünün parçalandığı kimi durumlarda makalelerin farklı
+araştırma sorularına sahip olmaları makalelerin özgünlüklerini sağlamak için yeterli
+olmayabilir. Örneğin; tarama deseninde yapılacak bir araştırmada veriler genellikle
+bir ölçme araçları setini veya anket sorularını kullanarak toplanır. Çünkü araştırmacı, daima kavramların birbiriyle ilişkili araçlarla nasıl ölçüm yapacağıyla ve bir
+veya daha fazla sonuçla ilgilenir. Bu yüzden bu tür bir tarama araştırmasının sonuçlarının tek bir makale halinde yayınlanması uygun olacaktır. Örneğin, stres, kişilik,
+tükenmişlik ve genel sağlık arasındaki ilişkiyi araştırmak üzere veri toplayan bir
+araştırmacının araştırma sonuçlarını, her bir ölçme aracının sonuçları ayrı bir makale olacak şekilde dört makale yayınlamak yerine tek bir makale halinde yayımlaması beklenir. Aynı şekilde, araştırmanın sonuçlarının, katılımcıların cinsiyeti, yaşları, demografik özelliklerine dayalı olarak bölünmesi ve ayrı makaleler halinde yayınlanması doğru olmaz.68 Yine, geliştirilen bir ölçeğin geçerlilik çalışmasının bir makalede, güvenirlik çalışmasının ise başka bir makalede yapılması uygunsuz bir bölümleme olacaktır.69
+Eğer bir araştırma sadece bir hipotezi test etmek için tasarlandıysa, araştırma sonuçlarının da, veri setinin büyüklüğüne bakılmaksızın, okuyuculara tek bir paket içerisinde sunulması uygun olacaktır.70 Hatta mümkün oldukça birbiriyle ilişkili çoklu
+hipotezlerle bir makaleyi daha güçlü hale getirmenin yolları aranmalı, birbiriyle ilişkili hipotezlerin her birini ayrı bir yayın olarak tasarlamaktan kaçınılmalıdır. 71 Her
+bir kontrol grubu tek bir çalışmadaki test edileni temsil etmeli ve aynı kontrol grubunu birden fazla çalışmada kullanmamaya özen gösterilmelidir.72 Bunu yapmak durumunda ise, birbiriyle örtüşen muhtemel bilgiler (makaledeki kontrol verilerinden
+herhangi birinin diğer makaledeki kontrol verilerini ihtiva ettiği veya aynı ya da yakın bir konuda daha önce makale yayımlanıp yayımlanmadığı) hususunda makale
+
+67
+
+68
+69
+
+70
+71
+
+72
+
+Kirkman - Chen, “Maximizing Your Data or Data Slicing? Recommendations for Managing Multiple
+Submissions from the Same Dataset”, 437-438.
+Watson vd., “How Many Papers Can Be Published From One Study?”, 2458.
+Judith Gedney Baggs, “Issues and Rules for Authors Concerning Authorship versus
+Acknowledgements, Dual Publication, Self plagiarism, and Salami Publishing”, Research in Nursing &
+Health 31/4 (Ağustos 2008), 296.
+Fonseca, “The Pitfalls of ‘Salami Slicing’: Focus on Quality and not Quantity of Publications”, 3.
+Wallace vd., “Ethics in Publication, Part 2: Duplicate Publishing, Salami Slicing, and Large
+Retrospective Multicenter Case Series”.
+Šupak Smolčić, “Salami Publication: Definitions and Examples”, 240-241.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+70 ▪ Turgay Gündüz
+
+gönderilmeden önce veya gönderme sırasında durumu açıklayıcı bir mektupla editörün bilgilendirilmesi gerekir.73
+(4) Çoklu yayınların kaynağı hususunda şeffaf ve makalenin gönderildiği dergi
+editörüyle işbirliği içinde olunmalıdır.
+Araştırma ve yayın sürecinde şeffaflık ve ilgili taraflarla (editör, yayıncı) işbirliği
+hem sürecin sağlıklı işleyişi hem de bazı etik sorunlarla karşılaşmamak açısından
+önem arz eder.
+Bir araştırmadan makul gerekçelerle birden fazla yayın üreterek yayımlanması
+için dergilere gönderilmesi planlandığında bu yayınların muhtevaları hakkında editöre bilgi verilmesi beklenir. Ayrıca sonradan yayımlanan makalenin öncekinden
+hangi yönleriyle farklı veya benzer olduğu editöre yazılacak bir kapak mektubunda
+veya makalenin uygun bir yerinde açık bir şekilde ifade edilmelidir.74 Böylece editörün ikinci makale hakkında daha sağlıklı bir değerlendirme yaparak isabetli karar
+vermesine yardım edilmiş olur.
+Aynı araştırmadan üretilen iki makalenin tek dergiye gönderilmesi, yayımlanma
+ihtimalinin çok düşük olmasından dolayı, çok rastlanan bir durum değildir; onun için
+genellikle bu tür çalışmaların farklı dergilere gönderilmesi tercih edilmektedir.
+Farklı dergilere gönderirken, çalışmalardan biriyle ilgili sonuç aldıktan sonra diğerini başka bir dergiye göndermek daha uygun olan bir davranıştır. Çünkü bu sayede
+sonradan yayımlanan makalede aynı araştırmadan üretilen önceki yayından söz
+etme ve ikinci derginin editörünü bu hususta bilgilendirme imkânı elde edilmiş olur.
+Makalelerin eş zamanlı olarak farklı dergilere gönderilmesi durumunda ise, yine
+mutlaka makalelerin içerikleri hakkında bilgi verilmeli, gerekirse her iki makale metinleri iki derginin editörüyle de paylaşılarak proaktif bir davranış sergilenmeli ve
+makalelerin muhtevalarına dair editörlerin açık bilgi sahibi olmaları sağlanmalıdır.
+Dergiye ilk gönderim aşamasında yazarların, makalelerinin aynı araştırmadan üretilen diğer makalelerden hangi açılardan farklı ve hangi yönleriyle özgün olduğunu
+bir tablo biçiminde sunmaları mümkündür. Bu şeffaflık sağlanmazsa, söz konusu durumun sonradan tespit edilmesi halinde editör veya hakemlerin meseleyi etik bir kusur veya ihlal olarak değerlendireceklerinden makale hakkında oldukça negatif karar
+verme eğiliminde olacakları kuvvetle muhtemeldir.75
+
+73
+74
+
+75
+
+Fonseca, “The Pitfalls of ‘Salami Slicing’: Focus on Quality and not Quantity of Publications”, 3.
+Šupak Smolčić, “Salami Publication: Definitions and Examples”, 238, 240-241. Ayrıca bk. Baggs, “Issues
+and Rules for Authors Concerning Authorship versus Acknowledgements, Dual Publication, Self
+plagiarism, and Salami Publishing”, 296; Watson vd., “How Many Papers Can Be Published From One
+Study?”, 2459; Norman, “Data Dredging, Salami-slicing, and Other Successful Strategies to Ensure
+Rejection: Twelve Tips on How to Not Get Your Paper Published”, 4.
+Kirkman - Chen, “Maximizing Your Data or Data Slicing? Recommendations for Managing Multiple
+Submissions from the Same Dataset”, 441-442, 444.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 71
+
+Kısaca, bir araştırmadan üretilen birden fazla makaleyi dergiye gönderme ve yayımlama sürecinde veya yayımlandıktan sonra dilimleme ithamı ve bunun kötü sonuçlarıyla karşılaşmamak için en güvenilir yol, editöre danışmak ve onunla işbirliği
+yapmak, daima önceki makaleye atıfta bulunmak ve onu kaynak olarak göstermek ve
+aynı veri setiyle ilişkili makalelerin birer nüshalarını editörle paylaşmaktır. 76
+(5) Dilimleme ile üretilmiş çalışmalar araştırmacıya fayda sağlayacak ayrı yayınlar olarak sunulmamalıdır.
+Yapılan bazı dilimleme tanımlarının bir unsuru da bu kapsamda değerlendirilebilecek yayınları kişisel fayda temin etme amacıyla kullanmaktır. Hangi gerekçe ile
+yapılmış olursa olsun, dilimleme kapsamında değerlendirilebilecek yayınlar üretilmişse, bu tür çalışmalar, tıpkı birden fazla kongrede sunulan özetler, sunumlar, birden fazla dergiye gönderilmiş aynı içerikteki yazılarda olduğu gibi, yayın listesi hazırlanırken, yayınlar bir ödül, unvan vb. için sunulurken tek bir sıra numarası altında
+a), b)..., şeklinde aynı yayına ait farklı nüshaları gösterecek şekilde düzenlenmelidirler. Böyle bir uygulama yazarların “yayın listesini abartmış” olma ithamına maruz
+kalmalarına da mani olabilecektir.77
+3.2. Dergi Editörlerinin Yapması Gerekenler
+Dergi editörleri, her şeyden önce, araştırma ve yayın etiği konusunda detaylı bilgi
+sahibi, etik sorunlara karşı da oldukça duyarlı olmalıdır. Ayrıca etik bir sorunla karşılaşıldığında yapılması gerekenler olduğu hususunda kendilerini sorumlu hissetmelidirler.
+Dilimleme, aynı araştırmadan birden fazla yayın çıkarma olsa da, bu yayınlar arasında her zaman açık bir metin benzerliği olmayabilir. Dilimleme ile üretilmiş yayınları tanıyan bir yazılım veya algoritma da henüz keşfedilmiş değil; bu yüzden kolaylıkla tespit edilmesi mümkün olmasa da iki veya daha fazla yayının örneklem büyüklüğü, hipotezleri, yöntemi ve araştırma sonuçları bakımından birbirine benzer oluşu
+ve sıklıkla aynı yazarlar tarafından kaleme alınmış olması bu tür yayınların teşhisini
+mümkün kılabilir.78
+Editörün, dilimleme ile üretilmiş olabileceğinden şüphelendiği makale ile karşılaştırmak için, daha önce yayınlanan makalenin bir kopyasını yazardan isteme hakkı
+vardır.79 Editör iki makaleyi karşılaştırmak suretiyle karar verebileceği gibi bunları,
+çift taraflı kör hakemlik kuralını ihlal etmeden, hakemlerle de paylaşarak onların
+76
+
+77
+
+78
+79
+
+Baggs, “Issues and Rules for Authors Concerning Authorship versus Acknowledgements, Dual
+Publication, Self plagiarism, and Salami Publishing”, 296.
+Töreci, “Tıpta Yayın Etiği (Bizden de Örneklerle)”, 8. Ayrıca bk. Demircioğlu, “İdari Yargı Kararları
+Çerçevesinde Bilimsel Yayın Etiği Soruşturmaları”, 193.
+Šupak Smolčić, “Salami Publication: Definitions and Examples”, 237-238.
+Kirkman - Chen, “Maximizing Your Data or Data Slicing? Recommendations for Managing Multiple
+Submissions from the Same Dataset”, 441.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+72 ▪ Turgay Gündüz
+
+makale hakkında isabetli karar vermelerine yardımcı olabilir. Ayrıca, dilimleme şüphesi oluşması halinde editör, yazar(lar)dan iki makale arasındaki benzerlik veya farklılıklarının ve bu çalışmalarla akademik camiaya sunulan orijinal bilimsel katkının
+ne olduğunu açıklamalarını isteyebilir.
+Diğer etik dışı davranışlarda olduğu gibi dilimleme de bireysel bir davranış olarak
+değerlendirilmeli ve ilgili materyalin veya metnin ne derece çalışmanın bütünlüğünü bozacak şekilde yeni bir yayına dönüştürüldüğü dikkate alınarak karar verilmelidir.80
+Anonimize edilerek sunulan bir dilimleme vakasıyla ilgili olarak uluslararası bir
+yayın etiği kuruluşu olan Committee on Publication Ethics (COPE) forumunda, dilimleme
+ile üretilerek A ve daha sonra B dergisine gönderilen yayınlarla ilgili olarak editörlere şu tavsiyede bulunmuştur: Makaleyi geri çekip çekmeme B dergisinin editörünün kararına bağlıdır. Çünkü diğer makale A dergisine daha önce gönderilmiştir. Bu
+yüzden dilimleme davranışı karşısında gerekenin yapılması sorumluluğu B dergisine
+aittir. A dergisinin editörü ise B dergisi ile irtibata geçme ve bu hususta bilgilendirme
+sorumluluğu taşımaktadır. Her halükarda editörlerin yazarlardan bir açıklama istemeleri her zaman en uygun olan davranış şeklidir. 81
+Araştırmacıların çok miktarda veriye sahip olmaları, aynı araştırmadan birden
+fazla yayın üretmelerinin tek başına haklı gerekçesi olmayabilir. Bazı yazarlar, etik
+bir gereklilik olduğu için, makalenin uygun bir bölümüne “bu veriler büyük bir araştırma projesinden alınmıştır” şeklinde bir not koyarlar. Editörler, yazarların açık bir
+şekilde ifade ettikleri bu gibi durumları titizlikle incelemeyi ihmal etmemelidirler.
+Dilimleme eyleminin işlenmesi editörün, intihalde olduğu gibi, yazar için ciddi sonuçlar doğuracak bir girişimini gerektirmeyebilir, ancak nitelikli bir dergi editörü bu
+tür davranışlara tevessül eden yazarları, çalışmalarını reddettikten sonra, uygun bir
+dille mutlaka uyarmalı ve kasıtlı bir davranış olarak değerlendiriyorsa kendi kara listesine eklemelidir.
+3.3. Yükseköğretim ve Araştırma Kurumlarının Yapması Gerekenler
+Araştırmacıların istihdam edildikleri kurumlar, araştırmada bütünlük meselesinin şüphesiz önemli birer parçası durumundadırlar.82 Her şeyden önce bu kurumlar,
+akademik etiğin gerektirdiği belli ilkeler çerçevesinde bilgi üretimi için araştırmacılara uygun imkânlar sağlar, verimli ve nitelikli çalışmaların ortaya çıkması için gerekli iklimi ve atmosferi oluştururlar. Fiziki ortamlar ve maddi imkânların yanında
+araştırmaların yürütülmesi ve sonlandırılarak yayına dönüştürülmesi aşamalarında
+
+80
+81
+
+82
+
+Tolsgaard vd., “Salami-slicing and Plagiarism: How should We Respond?”, 13.
+COPE: Committee on Public Ethics, “Self-plagiarism and Suspected Salami Publishing”, 2018, Erişim
+06/01/2020.
+UK Research Integrity Office, The Concordat to Support Research Integrity.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 73
+
+doğrudan veya dolaylı olarak bu kurumlar araştırmanın niteliğine katkıda bulunurlar. Kurumların niteliği önceleyen, erişilebilir kademeli başarı hedefleri olan ve bu
+hedefleri makul aralıklarla sürekli güncelleyen, başarı ölçütleri açık bir şekilde tanımlı ve bu ölçütler çerçevesinde başarı gösteren araştırmacıları ödüllendiren adil
+ve hakkaniyetli yönetim anlayışları, içinde dilimlemenin de olduğu pek çok etik sorunun ortaya çıkmasına imkân vermeyen bir zemin oluşturacaktır.
+Bu çerçevede, Türkiye’de Yükseköğretim Kurulu, ülke çapında üst düzeyde bir
+kalite ve performans sistemi oluşturarak kurumları ülke çapında değerlendirmeye
+tabi tutarken, daha yerel düzeyde faaliyet gösteren üniversiteler ise YÖK tarafından
+belirlenen genel kriterler çerçevesinde kendi akademik personelinin mevcut performans düzeyini tespit ederek, bu düzeye çok uzak düşmeyen erişilebilir yeni hedefler
+belirleyebilir ve makul süreler içerisinde bu hedeflere ulaşmalarını temin edebilirler.
+Bütün ayrıntıları merkezi yönetim marifetiyle belirlenen bireysel akademik performans ölçütleri, çok geniş bir camiadan oluşan akademik personelin her birinin, özellikle farklı alanlardan gelenler arasında ciddi farklılaşmalarından dolayı, kapsamlı ve
+adil bir değerlendirmeye tabi tutulması için uygun olmayabilir. Bir kesim için oldukça kolay hedefler başka bir kesim için ulaşılması zor bir mahiyet arz edebilir. Bu
+da, istikrarlı olmayan, sürekli başarı tanımları değişen, akademik personelin uzun
+vadeli nitelikli bilimsel çalışma planlaması yapmalarına imkân vermeyen, aşırı değişken ve sığ bir akademik performans değerlendirmesi ile sonuçlanabilir. Netice
+olarak, nitelikli bilimsel çalışmalar yapmak ve yayımlamak için gerekli etik zemin
+bundan olumsuz etkilenecektir.83
+Daha spesifik olarak ifade etmek gerekirse kurumlar, araştırmacıların üretkenlik
+durumlarını ölçerken nicelik yerine niteliği temel bir kıstas olarak belirlemeli, özgün
+ve sağlam temellere dayanan bilimsel bilgi üretmeyi teşvik etmelidirler. Aksi halde
+araştırmacıların, haksız ve ölçüsüz bir şekilde, kendilerini sürekli olarak yayın sayılarını artırma baskısı altında hissetmelerine ve araştırma sonuçlarını parçalar halinde bölerek birden fazla makale şeklinde yayınlamanın cazibesine kapılmalarına
+neden olabilmektedir. Araştırmacıların performansları ve üretkenliklerinin sadece
+sayısal verilerle ölçülmesi, sağlam bilimsel ve entelektüel ölçüler çerçevesinde niteliksel bir gelişime önem verilmemesinin de dilimleme gibi etik sorun oluşturan davranışların ortaya çıkışında önemli etkileri bulunmaktadır. 84 Yayın tekrarı veya dilimleme, sıklıkla üretkenliklerini sergilemek isteyen bir kısım bilim insanlarının bilinçli
+83
+
+84
+
+Türkiye’de gerek doçentlik kriterleri ve gerekse akademik teşvik yönetmeliği bunun açık örnekleridir.
+Özellikle 17 Ocak 2020 tarihli Akademik Teşvik Yönetmeliği bu gayrı hakkaniyetli değişimin çok tipik
+bir örneğidir. 2019 yılı için geçerli olan akademik teşvik kriterlerine göre çalışmalarını yapan bir akademisyen, akademik teşvik müracaatlarının başladığı tarih aralığının (1 Ocak 2020-31 Ocak 2020) tam
+ortasında Akademik Teşvik Yönetmeliği’nin değiştiği haberini alabilmekte, geçmiş bir yıllık performansının çıkarılan bu yeni yönetmelikteki esaslara göre değerlendirileceğini öğrenebilmektedir.
+Jorge Faber, “Ethics, Aristotle, and the Least Publishable Unit”, Journal of the World Federation of
+Orthodontists 3/1 (Mart 2014), e1.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+74 ▪ Turgay Gündüz
+
+tercihlerinin bir sonucu olarak ortaya çıktığı söylenebilir. “Yayın yap ya da yok ol”
+dünyasında araştırmacılar yayın kalitesi ve etkisini kimi zaman yayın sayısına kurban vermeye istekli hale gelebilmektedirler. 85
+Kurumlar her ne kadar adil, hakkaniyetli, nitelikten yana, başarıyı ödüllendiren
+bir yönetim sistemini benimsemiş olsalar da, etik dışı davranışların ortaya çıkmasında acelecilik, kolaycılık, tembellik, kıskançlık vs. gibi zaaflarla malul bir varlık olarak insan faktörünün etkisini göz ardı etmek mümkün değildir. Bu yüzden etik davranmayı kolaylaştırma ve teşvik etme yanında etik dışı davranışların ortaya çıkışını
+zorlaştıran caydırıcı bir düzenlemenin olması gerektiği de açıktır. Bu çerçevede Türkiye’de akademik kurumlarda yakın bir zaman öncesine kadar ciddi bir mesafe kaydedildiği maalesef söylenemez. 2016 yılı öncesine kadar uygulamada intihal suçu dışında etiğe aykırı diğer davranışlar (haksız yazarlık, dilimleme, dublikasyon) açısından tespit edilmiş disiplin cezaları bulunmamakta idi.86 Bu tarihten sonra, 2547 sayılı
+YÖK Kanunu’nun “Disiplin ve Ceza İşleri (Genel esaslar)” bölümünde yapılan değişiklikle “bir araştırmanın sonuçlarını, araştırmanın bütünlüğünü bozacak şekilde ve
+uygun olmayan biçimlerde parçalara ayırıp birden fazla sayıda yayımlayarak bu yayınları akademik atama ve yükselmelerde ayrı yayınlar olarak sunmak” aylıktan veya
+ücretten kesmeyi gerektiren cezalar arasına eklenmiştir. 87 Araştırma ve yayın etiğinin
+daha ciddiye alınmasını gerektiren bir yaptırım olması bakımından bunun son derece olumlu bir gelişme olduğu söylenebilir.
+Sonuç
+Bir araştırmadan birden fazla yayın üretmek, belli ölçülere uyulmadığı takdirde,
+etik açıdan sakıncalı bir eylem olarak görülmekte ve bu eylemin faili durumundaki
+araştırmacılar kimi zaman idari soruşturmaların ve cezaların muhatabı olabilmektedirler. Dolayısıyla bir araştırmadan birden fazla yayın yapmak ile dilimleme arasındaki farkın iyice anlaşılması önem arz etmektedir.
+Türkiye’de resmi belgelerde ilk defa tanımı 2003 yılında TÜBİTAK tarafından yapılan dilimleme bundan 9 yıl sonra, yani 2012 yılında Yükseköğretim mevzuatında
+da tanımlanarak, özellikle doçentlik sınavı değerlendirmelerinde ve akademik terfiler için dikkat çekilen bir etik sakınca olarak görülmeye başlanmıştır. Gerek TÜBİTAK
+ve gerekse Yükseköğretim mevzuatındaki dilimleme tanımları zaman içinde küçük
+çaplı tashihlerle ve en son 2016 yılında 2547 sayılı YÖK Kanununun “Disiplin ve Ceza
+İşleri” başlıklı 9. bölümünde yapılan değişiklikle, “Bir araştırmanın sonuçlarını, araştırmanın bütünlüğünü bozacak şekilde ve uygun olmayan biçimlerde parçalara ayırıp birden fazla sayıda yayımlayarak bu yayınları akademik atama ve yükselmelerde
+ayrı yayınlar olarak sunmak.” şeklindeki nihai formuna kavuşmuştur. TÜBİTAK’ın
+85
+86
+87
+
+Urbanowicz - Reinke, “Publication Overlap: Building an Academic House with Salami Shingles”, 2.
+Demircioğlu, “İdari Yargı Kararları Çerçevesinde Bilimsel Yayın Etiği Soruşturmaları”, 155, 207.
+bk. 2547 Sayılı Yükseköğretim Kanunu, Madde 53, 3. fıkra (değişik: 2/12/2016 – 6764/26 md.) “g”
+bendi.
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 75
+
+tanımında 2015 yılında ilave edilen “yayımlama girişiminde bulunmak” ibaresi 2018
+yılındaki en güncel yönetmelikte de korunmuştur.
+Dilimleme, daha çok yayın etiği ile ilgili bir kavram olması hasebiyle, öncelikle
+akademik dergi editörlerinin dikkatini çekmiş ve onlar tarafından tartışılır bir konu
+olmuştur. Bu nedenle dilimleme konusuyla ilgili literatürün büyük bir kısmı aynı zamanda bir dergi editörü olan akademisyenler tarafından kaleme alınmıştır. Bu literatür incelendiğinde dilimlemenin ne olduğu ve olmadığına ilişkin birbiriyle benzeşen ve ayrışan çeşitli tanımların yapıldığı görülür.
+Bu çalışma neticesinde; bir kısım literatürde tekrar yayının eş anlamlısı olarak
+kullanılan dilimlemenin, aslında tekrar yayın ile benzerlikleri olsa da dilimleme yoluyla üretilmiş yayınlar arasında açık ve zorunlu bir içerik benzerliği olmayabileceği;
+tekrar yayın aynı içeriğin bütün olarak tekrar tekrar sunumu iken; dilimlemenin,
+aynı araştırma verisinin, parçalara ayrılarak kısım kısım sunumu olması dolayısıyla
+teşhisinin tekrar yayına göre daha zor olduğu, bu yönleriyle ikisinin birbirinden ayrıldığı çeşitli yönleriyle ortaya konulmuştur.
+Bir araştırmanın sonuçlarını yayınlanabilir en küçük birimlere ayırarak birden
+fazla yayın üretmenin, en azından bazı durumlarda, ak ve kara gibi doğru ve yanlış
+ya da etik ve etik dışı olarak ifade edilebilecek bir mevzu olmadığı, konunun en azından bazı gri alanlarının olduğu söylenebilir. Bu gibi durumlarda; yapılan birden fazla
+yayın üretme işinin bilime ve bilim insanının saygınlığına zarar verir nitelikte olup
+olmadığı, yanıltmaya ve haksız çıkar elde etmeye teşebbüs içerip içermediği, araştırmacıyı kendinden intihal, tekrar yayın ve yayın haklarını ihlale açık hale getirip getirmediği kriterlerine göre değerlendirilmek suretiyle karar verilmesinin isabetli
+olacağı düşünülmektedir.
+Araştırmalar değişik nedenle farklı büyüklüklerde ve sürelerde yapılabilmektedir; dolayısıyla bu araştırmalara dayalı yayın sayıları da farklılaşabileceğinden bir
+araştırmadan birden fazla yayın üretmenin mutlak surette etik dışı olmadığı söylenebilir. Ancak, nicelik uğruna niteliğin heba edilmesi sonucunu doğuran çoklu yayın
+üretme işleminin etik açıdan sakıncalı olduğu da apaçık ortadadır.
+Araştırma bütünlüğünü zedeleyen dilimleme sorunu, yazarların araştırma ve yayın etiği hususunda daha malumat sahibi olmaları ve daha hassas davranmalarının
+yanı sıra, araştırma ve yayın sürecinin yönetim ve denetiminde önemli görevler üstlenen dergi editörlerinin ve ilgili araştırma kurumlarının iyi niyetli ve etkin işbirliği
+ile büyük ölçüde aşılabilecektir.
+
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+76 ▪ Turgay Gündüz
+
+Kaynakça
+(ALLEA), All European Academies - (ESF), the European Science Foundation. The
+European Code of Conduct for Research Integrity. Revised ed. Berlin: ALLEA - All
+European Academies, 2017.
+Akademik Hukuk ve Danışmanlık Bürosu. “Kendinden İntihal (Self-Plagiarism)
+Üniversitelerarası Kurul Bilimsel Araştırma ve Yayın Etiği Yönergesine Göre
+Etiğe Aykırı Eylemler Arasında Değildir ve Dilimleme Olarak Nitelendirilemez
+(Ankara 3. İdare Mahkemesi Yürütmeyi Durdurma Kararı)”. Erişim 06/02/2020.
+https://akademikhukuk.org/kendinden-intihalself-plagiarismuniversitelerarasi-kurul-bilimsel-arastirma-ve-yayin-etigi-yonergesine-goreetige-aykiri-eylemler-arasinda-degildir-ve-dilimleme-olarak-nitelendirilemezankara-3-i/
+Aksan, Doğan - Erzan, Ayşe - Güriz, Adnan - Öztürk, M. Orhan. Bilimsel Araştırmada Etik
+ve Sorunları. Ankara: Türkiye Bilimler Akademisi Yayınları, 2002.
+Baggs, Judith Gedney. “Issues and Rules for Authors Concerning Authorship versus
+Acknowledgements, Dual Publication, Self plagiarism, and Salami Publishing”.
+Research in Nursing & Health 31/4 (Ağustos 2008), 295-297.
+https://doi.org/10.1002/nur.20280
+Bailey, Byron J. “Duplicate Publication in the Field of Otolaryngology-Head and Neck
+Surgery”. Otolaryngology–Head and Neck Surgery 126/3 (Mart 2002), 211-216.
+https://doi.org/10.1067/mhn.2002.122698
+Beaufils, Philippe. - Karlsson, Jon. “Legitimate Division of Large Datasets, Salami
+Slicing and Dual Publication. Where does a Fraud Begin?” Orthopaedics and
+Traumatology:
+Surgery
+and
+Research
+99/2
+(2013),
+121-122.
+https://doi.org/10.1016/j.otsr.2013.01.001
+Bilgin, Hüseyin. İdari Davalar ve Çözüm Yolları. Ankara: Seçkin Yayıncılık, 2018.
+Budd, John M. - Stewart, Kristine N. “Is There Such A Thing as ‘Least Publishable
+Unit’? An Empirical Investigation”. Libres 25/2 (2015), 78-85.
+Cebecioğlu, Ethem. “Şemseddin-i Tebrizi’nin Kur’an-ı Kerim Ayetlerine Getirdiği
+Bazı İşari Yorumlar-II”. Ankara Üniversitesi İlahiyat Fakültesi Dergisi 41/1 (01 Nisan
+2000), 43-65. https://doi.org/10.1501/Ilhfak_0000000522
+Cebecioğlu, Ethem. “Şemseddin-i Tebrizi’nin Kur’an-ı Kerim Ayetlerine Getirdiği
+Bazı İşari Yorumlar (I)”. Ankara Üniversitesi İlahiyat Fakültesi Dergisi 39/1 (01 Nisan
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 77
+
+1999), 107-113. https://doi.org/10.1501/Ilhfak_0000000834
+COPE: Committee on Public Ethics. “Self-plagiarism and Suspected Salami
+Publishing”, 2018. Erişim 06.01.2020. https://publicationethics.org/case/selfplagiarism-and-suspected-salami-0
+Demircioğlu, Mustafa Yaşar. “İdari Yargı Kararları Çerçevesinde Bilimsel Yayın Etiği
+Soruşturmaları”. Ankara Barosu Dergisi 1 (2014), 145-218.
+Dinçer, Serkan. Akademik Yazım ve Araştırmacılara Öneriler. Ankara: Pegem Akademi,
+2018. https://doi.org/10.14527/9786052414378
+Faber, Jorge. “Ethics, Aristotle, and the Least Publishable Unit”. Journal of the World
+Federation
+of
+Orthodontists
+3/1
+(Mart
+2014):
+e1.
+https://doi.org/10.1016/j.ejwf.2014.02.004
+Fonseca, Marisha. “The Pitfalls of ‘Salami Slicing’: Focus on Quality and not Quantity
+of Publications”. Editage Insights. 2013. https://doi.org/10.34193/EI-A-6377
+Hökelekli, Hayati. “Ölümle İlgili Tutumların Dini Davranışla İlişkisi Üzerine Bir
+Araştırma I”. Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 4/1 (01 Ocak 1992), 57-85.
+https://dergipark.org.tr/tr/pub/uluifd/issue/13504/163310
+Hökelekli, Hayati. “Ölümle ilgili Tutumların Dini Davranışla İlişkisi Üzerine Bir
+Araştırma II”. Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 4/1 (01 Ocak 1992), 87-98.
+https://dergipark.org.tr/tr/pub/uluifd/issue/13504/163311
+Huth, Edward J. “Repetitive and Divided Publication”. Ethical Issues in Biomedical
+Publication. ed. Anne Hudson Jones - Faith McLellan. 112-136. Baltimore & London:
+The Johns Hopkins University Press, 2000.
+Huth, Edward J. “Irresponsible Authorship and Wasteful Publication”. Annais of
+internal Medicine 104 (1986), 257-259. http://annals.org/
+Jackson, Debra - Walter, Garry - Daly, John - Cleary, Michelle. “Editorial: Multiple
+Outputs from Single Studies: Acceptable Division of Findings vs. ‘Salami’ Slicing”.
+Journal
+of
+Clinical
+Nursing
+23/1-2
+(Ocak
+2014),
+1-2.
+https://doi.org/10.1111/jocn.12439
+Kara, Mustafa. “Bursa Tekkelerinde Şeyhlik Yapan Mutasavvıflar (I)”. Uludağ
+Üniversitesi İlahiyat Fakültesi Dergisi 3/1 (01 Ocak 1991), 107-118.
+Kara, Mustafa. “Bursa Tekkelerinde Şeyhlik Yapan Mutasavvıflar (II)”. Uludağ
+Üniversitesi İlahiyat Fakültesi Dergisi 3/1 (01 Ocak 1991), 119-130.
+https://dergipark.org.tr/tr/pub/uluifd/issue/13505/163351
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+78 ▪ Turgay Gündüz
+
+Kirkman, Bradley L. - Chen, Gilad. “Maximizing Your Data or Data Slicing?
+Recommendations for Managing Multiple Submissions from the Same Dataset”.
+Management and Organization Review 7/3 (02 Kasım 2011), 433-446.
+https://doi.org/10.1111/j.1740-8784.2011.00228.x
+Köker, Ahmet Hulusi. “Ebu Bekir Razi’nin Hayatı (865-925)”. Ebu Bekir Razi (865-925).
+ed. Ahmet Hulusi Köker. 1-9. Kayseri: Erciyes Üniversitesi Gevher Nesibe Tıp
+Tarihi Enstitüsü, 1988.
+Macrina, Francis L. Scientific Integrity. 4. Baskı. Washington, D.C.: ASM Press, 2014.
+https://doi.org/10.1128/9781555818487
+Majumder, Kakol. “The Importance of Avoiding Salami Slicing in Publications: A Case
+Study”. Editage Insights. 2016. 1-2. https://doi.org/10.34193/EI-A-5993
+Norman, Geoff. “Data Dredging, Salami-slicing, and Other Successful Strategies to
+Ensure Rejection: Twelve Tips on How to Not Get Your Paper Published”. Advances
+in Health Sciences Education 19/1 (2014), 1-5. https://doi.org/10.1007/s10459-0149494-8
+Norman, Ian - Griffiths, Peter. “Duplicate Publication and ‘Salami Slicing’: Ethical
+Issues and Practical Solutions”. International Journal of Nursing Studies 45/9 (Eylül
+2008), 1257-1260. https://doi.org/10.1016/j.ijnurstu.2008.07.003
+Rosenthal, Eben L. - Masdon, Jimmy Lee - Buckman, Christy - Hawn, Mary. “Duplicate
+Publications in the Otolaryngology Literature”. The Laryngoscope 113/5 (Mayıs
+2003), 772-774. https://doi.org/10.1097/00005537-200305000-00002
+Ruacan, Şevket. “Bilimsel Araştırma ve Yayınlarda Etik İlkeler”. Gazi Tıp Dergisi 16/4
+(2005), 147-149.
+Smart, Pippa. “Redundant Publication and Salami Slicing: The Significance of
+Splitting Data”. Developmental Medicine & Child Neurology 59/8 (Ağustos 2017), 775775. https://doi.org/10.1111/dmcn.13485
+Suárez, Andrea L. - Bernhard, Jeffrey D. - Dellavalle, Robert P. “Telling the Same Tale
+Twice: Déjà vu and the Shades of Grey in Self-plagiarism”. Dermatoethics:
+Contemporary Ethics and Professionalism in Dermatology. ed. Lionel Berkovitch Clifford
+Perlis.
+233-236.
+London:
+Springer
+-Verlag,
+2012.
+https://doi.org/10.1007/978-1-4471-2191-6_38
+Šupak Smolčić, Vesna. “Salami Publication: Definitions and Examples”. Biochemia
+Medica 23/3 (2013), 237-241. https://doi.org/10.11613/BM.2013.030
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+Akademik Yazımda Bir Araştırmadan Birden Fazla Yayın Üretmek: Etik Bir Problem (mi?)▪ 79
+
+Susser, Mervyn - Yankauer, Alfred. “Prior, Duplicate, Repetitive, Fragmented, and
+Redundant Publication and Editorial Decisions”. American Journal of Public Health
+83/6 (Haziran 1993), 792-793. https://doi.org/10.2105/AJPH.83.6.792
+Talbott, John A. “Salami Slicing, Duplicative Publication, and Data Set Utilization”.
+The Journal of Nervous and Mental Disease 204/11 (Kasım 2016), 868.
+https://doi.org/10.1097/NMD.0000000000000630
+TBMM. Milli Eğitimi Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde
+Kararname ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik
+Yapılmasına Dair Kanun. Resmî Gazete 29913 (02 Aralık 2016). Erişim 25/12/2019.
+https://www.resmigazete.gov.tr/eskiler/2016/12/20161209-5.htm
+Tolich, Martin. Researching with Integrity: The ethics of Academic Inquiry. International
+Journal
+of
+Research
+&
+Method
+in
+Education.
+2010.
+https://doi.org/10.1080/1743727x.2010.512098
+Tolsgaard, Martin G. - Ellaway, Rachel - Woods, Nikki - Norman, Geoff. “Salamislicing and Plagiarism: How should We Respond?” Advances in Health Sciences
+Education 24/1 (12 Mart 2019), 3-14. https://doi.org/10.1007/s10459-019-09876-7
+Töreci, Kurtuluş. “Tıpta Yayın Etiği (Bizden de Örneklerle)”. Ankem Dergisi 18/1
+(2010),
+1-41.
+http://www.ankemdernegi.org.tr/ANKEMJOURNALPDF/ANKEM_24_EK1_1.pdf
+Töreci, Kurtuluş. “Yayın Etiği (Etik Dışı Davranışlar ve Yazarlık)”. Ankem Dergisi 22/1
+(2008),
+44-51.
+http://www.ankemdernegi.org.tr/ANKEMJOURNALPDF/ANKEM_22_1_44_51.pdf
+?ID=528
+Trigotra, Suchet - Jaisal, Shikha - Mittal, Anshu - Bhardwaj, Anu. “Impact of a
+Publication Ethics Orientation Program on the Knowledge and Attitude of
+Postgraduate Students of Health Sciences”. Journal of Clinical Diagnostic Research
+13/2 (2019), LC04-LC09. https://doi.org/10.7860/JCDR/2019/40008.12548
+TÜBİTAK. TÜBİTAK Araştırma ve Yayın Etiği Kurulu Yönetmeliği. Türkiye: TÜBİTAK,
+2018. Erişim 11/12/2019. https://www.tubitak.gov.tr/sites/default/files/247_sayili_bk_islenmis_hali.pdf
+TÜBİTAK. TÜBİTAK Araştırma ve Yayın Etiği Kurulu Çalışma Esasları. Türkiye:
+TÜBİTAK, 2003. Erişim 11/12/2019. https://www.tubitak.gov.tr/tubitak_content_files/mevzuat/esaslar/esaslarVII_2.pdf
+
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+80 ▪ Turgay Gündüz
+
+UK Research Integrity Office. The Concordat to Support Research Integrity. UK Research
+Integrity Office, 2019.
+Ülman, Yeşim Işıl. “Bilimsel Bilgi Üretiminde Yayın Etiği”. Tıbbi Yayın Hazırlama
+Kuralları ve Yayın Etiği. ed. H. Yazıcı - M. Şenocak. 49-62. İstanbul: Nobel, 2006.
+Ünal, Mehmet - Toprak, Metin - Baspinar, Veysel. “Bilim Etiğine Aykırı Davranışlar
+Ve Yaptırımlar: Sosyal Ve Beşeri Bilimler Için Bir Çerçeve Önerisi (Ethical
+Violations and Sanctions in Scientific Publications: A Framework Proposal for
+Social Sciences and Humanities)”. SSRN Electronic Journal. February (2012).
+https://doi.org/10.2139/ssrn.2186411
+Üniversitelerarası Kurul. Üniversitelerarası Kurul Bilimsel Araştırma ve Yayın Etiği
+Yönergesi (y.y.).
+Ünver, A. Süheyl. Tıp Tarihi: Tarihten Önceki Zamandan İslâm Tababetine ve İslâm
+Tababetinden XX. Asra Kadar (I. ve II. Kısımlar). İstanbul: Ahmet İhsan Basımevi,
+1943.
+Urbanowicz, Christine - Reinke, Beth A. “Publication Overlap: Building an Academic
+House with Salami Shingles”. The Bulletin of the Ecological Society of America 99/4
+(2018), 1-6. https://doi.org/10.1002/bes2.1425
+US Department of Health & Human Services The Office of Research Integrity. “ORI
+Introduction to RCR: Chapter 9. Authorship and Publication”. Erişim 16/12/2019.
+https://ori.hhs.gov/content/Chapter-9-Authorship-and-Publication-Improperpractices
+Wallace, Michael B. - Bowman, Deborah - Hamilton-Gibbs, Hilary - Siersema, Peter D.
+“Ethics in Publication, Part 2: Duplicate Publishing, Salami Slicing, and Large
+Retrospective Multicenter Case Series”. Gastrointestinal Endoscopy 87/5 (Mayıs
+2018), 1335-1337. https://doi.org/10.1055/a-0582-9274
+Watson, Roger - Pickler, Rita - Noyes, Jane - Perry, Lin - Roe, Brenda - Hayter, Mark Hueter, Irene. “How Many Papers Can Be Published From One Study?” Journal of
+Advanced Nursing 71/11 (2015), 2457-2460. https://doi.org/10.1111/jan.12600
+YÖK. Yükseköğretim Kurulu Bilimsel Araştırma ve Yayın Etiği Yönergesi (2017).
+YÖK. “Yükseköğretim Kurumları Etik Davranış İlkeleri”. 2014.
+
+Uludağ Üniversitesi İlahiyat Fakültesi Dergisi 29/1 (Haziran 2020)
+
+
